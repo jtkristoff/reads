@@ -85,6 +85,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Internet Disruption Report](https://internetdisruption.report/) - news/analysis
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
+* [NLnet Labs Blog](https://medium.com/nlnetlabs) - protocols/software
 * [Oracle Internet Intelligence Blog](https://blogs.oracle.com/internetintelligence/) - analysis
 * [PacketLife](http://packetlife.net/blog/) - news/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
@@ -94,14 +95,17 @@ Sources of technical (mostly long and worthwhile) reads
 
 ### programming
 * [&lt;antirez&gt;](http://antirez.com) - redis
+* [The Go BLog](https://blog.golang.org/) - Go
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
 * [blogs.perl.org](http://blogs.perl.org/) - Perl
 * [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
 * [Mouse vs. Python](https://www.blog.pythonlibrary.org/) - Python
-* [Perl Weekly](http://perlweekly.com/) - perl
+* [Perl Weekly](http://perlweekly.com/) - Perl
+* [Planet Python](https://planetpython.org/) - python
 * [Sebastian Witowski Blog](https://switowski.com/blog/) - Python
 
 ### software
+* [Planet Debian](https://planet.debian.org/) - Debian
 * [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
 * [Lizard Wrangling](https://blog.lizardwrangler.com/) - Mozilla
 * [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
