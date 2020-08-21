@@ -54,6 +54,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
+* [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [End Point Blog](https://www.endpoint.com/blog) - systems/programming
 * [First Monday](http://firstmonday.org/) - research/analysis
@@ -64,7 +65,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [IEEE Spectrum](https://spectrum.ieee.org/) - news
 * [Internet Society Blog](https://www.internetsociety.org/blog/) - news
 * [Internet2 Blogs](https://www.internet2.edu/blogs/) - news
-* [Lawfare](https://www.lawfareblog.com/) - law
+* [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [MIT Technology Review](https://www.technologyreview.com/) - news
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
