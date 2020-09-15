@@ -31,6 +31,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Microsoft Malware Protection Center](https://blogs.technet.microsoft.com/mmpc/) - malware/analysis
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
+* [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
@@ -72,6 +73,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Avi Rubin's Blog](http://avi-rubin.blogspot.com/) - security
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
+* [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
 * [Weberblog.net](https://weberblog.net/) - networking/security
 
 ### networking
@@ -86,6 +88,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Internet Disruption Report](https://internetdisruption.report/) - news/analysis
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
+* [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [NLnet Labs Blog](https://medium.com/nlnetlabs) - protocols/software
 * [Oracle Internet Intelligence Blog](https://blogs.oracle.com/internetintelligence/) - analysis
 * [PacketLife](http://packetlife.net/blog/) - news/analysis
