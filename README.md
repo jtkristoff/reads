@@ -69,6 +69,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [MIT Technology Review](https://www.technologyreview.com/) - news
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
+* [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Avi Rubin's Blog](http://avi-rubin.blogspot.com/) - security
