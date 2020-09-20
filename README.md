@@ -75,6 +75,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Avi Rubin's Blog](http://avi-rubin.blogspot.com/) - security
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
+* [Warner's Random Hacking Blog](http://bsdimp.blogspot.com/) - systems/programming
 * [Weberblog.net](https://weberblog.net/) - networking/security
 
 ### networking
