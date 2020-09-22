@@ -58,6 +58,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [End Point Blog](https://www.endpoint.com/blog) - systems/programming
+* [Julia Evans](https://jvns.ca/) - programming/systems
 * [First Monday](http://firstmonday.org/) - research/analysis
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
