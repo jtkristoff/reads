@@ -66,7 +66,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [I've Been Mugged](http://ivebeenmugged.typepad.com/my_weblog/) - law
 * [IEEE Spectrum](https://spectrum.ieee.org/) - news
 * [Internet Society Blog](https://www.internetsociety.org/blog/) - news
-* [Internet2 Blogs](https://www.internet2.edu/blogs/) - news
+* [Internet2 News & Blogs](https://internet2.edu/news/) - news
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [MIT Technology Review](https://www.technologyreview.com/) - news
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
