@@ -94,10 +94,11 @@ Sources of technical (mostly long and worthwhile) reads
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [NLnet Labs Blog](https://medium.com/nlnetlabs) - protocols/software
-* [Oracle Internet Intelligence Blog](https://blogs.oracle.com/internetintelligence/) - analysis
+* [Oracle Internet Intelligence Blog](https://blogs.oracle.com/internetintelligence/) - routing/analysis
 * [PacketLife](http://packetlife.net/blog/) - news/analysis
+* [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
-* [routingcraft](https://routingcraft.net/) - routing/protocols
+* [routingcraft](https://routingcraft.net/) - routing/analysis
 * [SI6 Networks Blog](http://blog.si6networks.com/) - protocols/security
 * [Systems Approach Blog](https://www.systemsapproach.org/blog) - protocols/analysis
 * [USENIX](https://www.usenix.org/) - research/analysis
