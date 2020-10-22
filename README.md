@@ -87,6 +87,8 @@ Sources of technical (mostly long and worthwhile) reads
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
 * [ICANN blog](https://www.icann.org/news/blog) - news
 * [ICSI](http://icir.org/) - networking/security
+* [IEEE Communications Surveys & Tutorials](https://www.comsoc.org/publications/journals/ieee-comst)
+* [IEEE Transactions on network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm)
 * [IETF News and Blog](https://www.ietf.org/blog/) - protocols/news
 * [IETF RFCs](https://www.rfc-editor.org/) - protocols
 * [Internet Disruption Report](https://internetdisruption.report/) - news/analysis
