@@ -10,6 +10,7 @@ Sources of technical (mostly long and worthwhile) reads
 
 ### general science
 * [American Scientist](https://www.americanscientist.org) - news/research
+* [International Review of Science](https://inference-review.com/) - news/research
 * [New Scientist](https://www.newscientist.com/) - news/research
 
 ### infosec
