@@ -63,6 +63,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Julia Evans](https://jvns.ca/) - programming/systems
 * [First Monday](http://firstmonday.org/) - research/analysis
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
+* [Jeff Geerling's blog](https://www.jeffgeerling.com/blog) - software/hardware
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
 * [Bert Hubert's articles](https://berthub.eu/articles/) - science/opinion
 * [I've Been Mugged](http://ivebeenmugged.typepad.com/my_weblog/) - law
