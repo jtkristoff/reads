@@ -13,6 +13,14 @@ Sources of technical (mostly long and worthwhile) reads
 * [Inference: International Review of Science](https://inference-review.com/) - news/research
 * [New Scientist](https://www.newscientist.com/) - news/research
 
+### hardware/software
+* [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
+* [Planet Debian](https://planet.debian.org/) - Debian
+* [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
+* [Lizard Wrangling](https://blog.lizardwrangler.com/) - Mozilla
+* [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
+* [Tor Blog](https://blog.torproject.org/) - Tor
+
 ### infosec
 * [Akamai Security Intelligence &amp; Threat Research Blog](https://blogs.akamai.com/sitr/) - analysis
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
@@ -119,10 +127,3 @@ Sources of technical (mostly long and worthwhile) reads
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
 * [Sebastian Witowski Blog](https://switowski.com/blog/) - Python
-
-### software
-* [Planet Debian](https://planet.debian.org/) - Debian
-* [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
-* [Lizard Wrangling](https://blog.lizardwrangler.com/) - Mozilla
-* [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
-* [Tor Blog](https://blog.torproject.org/) - Tor
