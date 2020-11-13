@@ -85,6 +85,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Avi Rubin's Blog](http://avi-rubin.blogspot.com/) - security
+* [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
