@@ -90,6 +90,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
 * [Warner's Random Hacking Blog](http://bsdimp.blogspot.com/) - systems/programming
 * [Weberblog.net](https://weberblog.net/) - networking/security
+* [Wired](https://www.wired.com) - news
 
 ### networking
 * [ACM SIGCOMM](http://www.sigcomm.org/) - research
