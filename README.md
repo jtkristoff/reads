@@ -99,6 +99,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [APNIC Blog](https://blog.apnic.net/) - analysis
 * [CAIDA](https://www.caida.org/) - research/analysis
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
+* [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
 * [ICANN blog](https://www.icann.org/news/blog) - news
 * [ICSI](http://icir.org/) - networking/security
 * [IEEE Communications Surveys & Tutorials](https://www.comsoc.org/publications/journals/ieee-comst)
