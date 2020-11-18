@@ -24,6 +24,7 @@ Sources of technical (mostly long and worthwhile) reads
 ### infosec
 * [Akamai Security Intelligence &amp; Threat Research Blog](https://blogs.akamai.com/sitr/) - analysis
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
+* [CISO Tuesdays](https://medium.com/ciso-tuesdays) - opinion
 * [Corelight Blog](https://corelight.blog/) - analysis
 * [Dancho Danchev's Blog](https://ddanchev.blogspot.com/) - malware/analysis
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
