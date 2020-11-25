@@ -48,6 +48,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
+* [Russ White's feedly](https://feedly.com/riw777) - news
 
 ### infotech
 * [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
@@ -103,6 +104,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [CAIDA](https://www.caida.org/) - research/analysis
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
+* [The Elegant Network](https://elegantnetwork.github.io/) - protocols/engineering
 * [ICANN blog](https://www.icann.org/news/blog) - news
 * [ICSI](http://icir.org/) - networking/security
 * [IEEE Communications Surveys & Tutorials](https://www.comsoc.org/publications/journals/ieee-comst)
