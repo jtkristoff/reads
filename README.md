@@ -27,6 +27,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
 * [CISO Tuesdays](https://medium.com/ciso-tuesdays) - opinion
 * [Corelight Blog](https://corelight.blog/) - analysis
+* [cryptologie](https://cryptologie.net/) - crypto
 * [Dancho Danchev's Blog](https://ddanchev.blogspot.com/) - malware/analysis
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
