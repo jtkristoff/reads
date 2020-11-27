@@ -71,6 +71,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
+* [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
 * [End Point Blog](https://www.endpoint.com/blog) - systems/programming
 * [Julia Evans](https://jvns.ca/) - programming/systems
 * [First Monday](http://firstmonday.org/) - research/analysis
