@@ -79,7 +79,6 @@ Sources of technical (mostly long and worthwhile) reads
 * [Jeff Geerling's blog](https://www.jeffgeerling.com/blog) - software/hardware
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
 * [Bert Hubert's articles](https://berthub.eu/articles/) - science/opinion
-* [I've Been Mugged](http://ivebeenmugged.typepad.com/my_weblog/) - law
 * [IEEE Spectrum](https://spectrum.ieee.org/) - news
 * [Internet Society Blog](https://www.internetsociety.org/blog/) - news
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
