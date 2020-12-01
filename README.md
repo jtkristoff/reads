@@ -47,6 +47,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
+* [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
 * [Russ White's feedly](https://feedly.com/riw777) - news
@@ -63,6 +64,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Berkman Center](https://cyber.law.harvard.edu/) - law/research
 * [bit-player](http://bit-player.org/) - mathematics
 * [Bits](http://www.nytimes.com/column/bits) - news
+* [Arturo Borrero's blog](https://ral-arturo.org/) - software
 * [James Burnett's Blog](https://blog.dical.org/) - systems
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
 * [CircleID](http://www.circleid.com/) - news/opinion
@@ -85,7 +87,6 @@ Sources of technical (mostly long and worthwhile) reads
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [MIT Technology Review](https://www.technologyreview.com/) - news
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
-* [Arturo's blog](https://ral-arturo.org/) - software
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Research at Google](https://research.google.com/) - research/analysis
