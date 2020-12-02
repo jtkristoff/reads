@@ -26,6 +26,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Anonymity bibliography](https://www.freehaven.net/anonbib/) - research
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
 * [CISO Tuesdays](https://medium.com/ciso-tuesdays) - opinion
+* [Citizen Lab research](https://citizenlab.ca/category/research/) - privacy/analysis
 * [Corelight Blog](https://corelight.blog/) - analysis
 * [cryptologie](https://cryptologie.net/) - crypto
 * [Dancho Danchev's Blog](https://ddanchev.blogspot.com/) - malware/analysis
