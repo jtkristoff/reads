@@ -118,6 +118,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Internet Disruption Report](https://internetdisruption.report/) - news/analysis
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
+* [Christian Koch's blog](https://www.c8k3.com/) - news
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [NLnet Labs Blog](https://medium.com/nlnetlabs) - protocols/software
 * [Oracle Internet Intelligence Blog](https://blogs.oracle.com/internetintelligence/) - routing/analysis
