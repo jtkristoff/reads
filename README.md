@@ -18,6 +18,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Planet Debian](https://planet.debian.org/) - Debian
 * [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
 * [Lizard Wrangling](https://blog.lizardwrangler.com/) - Mozilla
+* [LWN](https://lwn.net/) - Linux
 * [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
 * [Tor Blog](https://blog.torproject.org/) - Tor
 
