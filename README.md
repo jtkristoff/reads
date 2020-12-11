@@ -47,6 +47,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
+* [Security Lab research](https://securitylab.github.com/research) - analysis
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
