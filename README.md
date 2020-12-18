@@ -53,7 +53,6 @@ Sources of technical (mostly long and worthwhile) reads
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
-* [Russ White's feedly](https://feedly.com/riw777) - news
 
 ### infotech
 * [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
@@ -101,6 +100,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
 * [Warner's Random Hacking Blog](http://bsdimp.blogspot.com/) - systems/programming
 * [Weberblog.net](https://weberblog.net/) - networking/security
+* [Russ White's feedly](https://feedly.com/riw777) - news
 * [Wired](https://www.wired.com) - news
 
 ### networking
