@@ -16,6 +16,7 @@ Sources of technical (mostly long and worthwhile) reads
 ### hardware/software
 * [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
 * [Planet Debian](https://planet.debian.org/) - Debian
+* [Fedora Magazine](https://fedoramagazine.org/) - Fedora
 * [Gnome blogs](https://blogs.gnome.org/) - Linux
 * [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
 * [Lizard Wrangling](https://blog.lizardwrangler.com/) - Mozilla
