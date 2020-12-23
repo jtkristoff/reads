@@ -111,6 +111,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [ACM SIGCOMM](http://www.sigcomm.org/) - research
 * [Andree's Musings](https://toonk.io/index.html) - engineering/analysis
 * [APNIC Blog](https://blog.apnic.net/) - analysis
+* [Anurag Bhatia's blog](https://anuragbhatia.com/) - analysis/routing
 * [CAIDA](https://www.caida.org/) - research/analysis
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
