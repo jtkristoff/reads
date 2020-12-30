@@ -147,6 +147,7 @@ Sources of technical (mostly long and worthwhile) reads
 * [blogs.perl.org](http://blogs.perl.org/) - Perl
 * [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
 * [Mouse vs. Python](https://www.blog.pythonlibrary.org/) - Python
+* [Network to Code blog](https://blog.networktocode.com/) - automation
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
 * [Sebastian Witowski Blog](https://switowski.com/blog/) - Python
