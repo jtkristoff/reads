@@ -1,12 +1,20 @@
 # reads
 Sources of technical (mostly long and worthwhile) reads
 
+* [general news](#general-news)
 * [general science](#general-science)
 * [infosec](#infosec)
 * [infotech](#infotech)
 * [networking](#networking)
 * [programming](#programming)
 * [software](#software)
+
+### general news
+* [The Chronicle of Higher Education](https://www.chronicle.com/) - news/academia
+* [The Conversation](https://theconversation.com) - news/academia
+* [The New York Times](https://www.nytimes.com) - news/US
+* [The Washington Post](https://www.thewashingtonpost.com) - news/US
+* [The Atlantic](https://www.theatlantic.com) - essays/US
 
 ### general science
 * [American Scientist](https://www.americanscientist.org) - news/research
