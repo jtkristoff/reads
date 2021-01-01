@@ -97,7 +97,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
 * [Bert Hubert's articles](https://berthub.eu/articles/) - science/opinion
 * [IEEE Spectrum](https://spectrum.ieee.org/) - news
-* [Internet-People](https://ip.topicbox.com/groups/ip) - news
+* [Interesting-People](https://ip.topicbox.com/groups/ip) - news
 * [Internet Society Blog](https://www.internetsociety.org/blog/) - news
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
