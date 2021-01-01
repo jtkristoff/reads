@@ -49,7 +49,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
 * [F-Secure Blog](https://blog.f-secure.com/) - analysis
 * [Farsight Security Blog](https://www.farsightsecurity.com/blog/) - analysis
-* [Frank DENIS random thoughts](https://00f.net) - programming/crypto
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
