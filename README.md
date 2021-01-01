@@ -16,7 +16,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Foregin Affairs](https://www.foreignaffairs.com) - essays/international
 * [Foreign Policy](https://foreignpolicy.com/) - essays/international
 * [The New York Times](https://www.nytimes.com) - news/US
-* [The Washington Post](https://www.thewashingtonpost.com) - news/US
+* [The Washington Post](https://www.washingtonpost.com) - news/US
 
 ### general science
 * [American Scientist](https://www.americanscientist.org) - news/research
