@@ -1,5 +1,5 @@
 # reads
-Sources of technical (mostly long and worthwhile) reads
+Sources of (mostly) technical (mostly long and worthwhile) reads
 
 * [general news](#general-news)
 * [general science](#general-science)
@@ -10,11 +10,13 @@ Sources of technical (mostly long and worthwhile) reads
 * [software](#software)
 
 ### general news
+* [The Atlantic](https://www.theatlantic.com) - essays/US
 * [The Chronicle of Higher Education](https://www.chronicle.com/) - news/academia
 * [The Conversation](https://theconversation.com) - news/academia
+* [Foregin Affairs](https://www.foreignaffairs.com) - essays/international
+* [Foreign Policy](https://foreignpolicy.com/) - essays/international
 * [The New York Times](https://www.nytimes.com) - news/US
 * [The Washington Post](https://www.thewashingtonpost.com) - news/US
-* [The Atlantic](https://www.theatlantic.com) - essays/US
 
 ### general science
 * [American Scientist](https://www.americanscientist.org) - news/research
