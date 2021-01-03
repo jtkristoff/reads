@@ -3,11 +3,11 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 
 * [general news](#general-news)
 * [general science](#general-science)
+* [hardware/software](#hardware/software)
 * [infosec](#infosec)
 * [infotech](#infotech)
 * [networking](#networking)
 * [programming](#programming)
-* [software](#software)
 
 ### general news
 * [The Atlantic](https://www.theatlantic.com) - essays/US
@@ -150,6 +150,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [USENIX](https://www.usenix.org/) - research/analysis
 
 ### programming
+* [Amos' writings](https://fasterthanli.me/) - Rust
 * [&lt;antirez&gt;](http://antirez.com) - redis
 * [The Go BLog](https://blog.golang.org/) - Go
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
