@@ -69,6 +69,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 
 ### infotech
 * [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
+* [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM TechNews](http://technews.acm.org/) - news
 * [Arabesque](https://sanctum.geek.nz/arabesque/) - systems
 * [Ken Auer's Blog](http://biplane.com.au/blog/) - systems
