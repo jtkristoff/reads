@@ -126,6 +126,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
 * [The Elegant Network](https://elegantnetwork.github.io/) - protocols/engineering
+* [The Forwarding Plane](https://forwardingplane.net/) - engineering/protocols
 * [ICANN blog](https://www.icann.org/news/blog) - news
 * [ICSI](http://icir.org/) - networking/security
 * [IEEE Communications Surveys & Tutorials](https://www.comsoc.org/publications/journals/ieee-comst)
