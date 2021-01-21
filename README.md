@@ -64,6 +64,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Lab research](https://securitylab.github.com/research) - analysis
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
+* [Soatok's blog](https://soatok.blog/b/) - crypto
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
