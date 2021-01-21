@@ -109,6 +109,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
+* [Protocol](https://www.protocol.com/) - news
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Avi Rubin's Blog](http://avi-rubin.blogspot.com/) - security
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
