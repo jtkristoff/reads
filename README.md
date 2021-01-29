@@ -141,6 +141,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Internet Protocol Blog](https://theinternetprotocolblog.wordpress.com/) - IPv6
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
+* [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
 * [Christian Koch's blog](https://www.c8k3.com/) - news
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [NLnet Labs Blog](https://medium.com/nlnetlabs) - protocols/software
