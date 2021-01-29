@@ -74,6 +74,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM TechNews](http://technews.acm.org/) - news
 * [Arabesque](https://sanctum.geek.nz/arabesque/) - systems
+* [arXiv.org](https://arxiv.org/) - research
 * [Ken Auer's Blog](http://biplane.com.au/blog/) - systems
 * [B2fxxx](https://b2fxxx.blogspot.com/) - law
 * [John Batelle's Search Blog](http://battellemedia.com/) - news/analysis
