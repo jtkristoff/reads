@@ -33,6 +33,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Lizard Wrangling](https://blog.lizardwrangler.com/) - Mozilla
 * [LWN](https://lwn.net/) - Linux
 * [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
+* [OpenBSD Journal](https://undeadly.org) - OpenBSD
 * [OSnews](https://www.osnews.com/) - Unix/Windows
 * [Tor Blog](https://blog.torproject.org/) - Tor
 
