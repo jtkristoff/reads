@@ -93,6 +93,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
+* [Daniel Aleksandersen's blog](https://www.ctrl.blog/) - systems/programming
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
