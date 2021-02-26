@@ -22,6 +22,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [American Scientist](https://www.americanscientist.org) - news/research
 * [Inference: International Review of Science](https://inference-review.com/) - news/research
 * [New Scientist](https://www.newscientist.com/) - news/research
+* [Science](https://www.sciencemag.org/) - research/news
 
 ### hardware/software
 * [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
