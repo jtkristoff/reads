@@ -84,7 +84,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Benjojo's Blog](https://blog.benjojo.co.uk/) - networking/systems
 * [Berkman Center](https://cyber.law.harvard.edu/) - law/research
 * [bit-player](http://bit-player.org/) - mathematics
-* [Bits](http://www.nytimes.com/column/bits) - news
 * [Arturo Borrero's blog](https://ral-arturo.org/) - software
 * [James Burnett's Blog](https://blog.dical.org/) - systems
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
