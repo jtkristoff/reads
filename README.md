@@ -149,7 +149,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [NLnet Labs Blog](https://medium.com/nlnetlabs) - protocols/software
 * [Oracle Internet Intelligence Blog](https://blogs.oracle.com/internetintelligence/) - routing/analysis
-* [PacketLife](http://packetlife.net/blog/) - news/analysis
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [Rip Van Webble](https://rip-van-webble.blogspot.com/) - protocols/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
