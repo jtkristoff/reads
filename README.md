@@ -101,6 +101,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
 * [Jeff Geerling's blog](https://www.jeffgeerling.com/blog) - software/hardware
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
+* [Hacker News](https://news.ycombinator.com) - news
 * [Bert Hubert's articles](https://berthub.eu/articles/) - science/opinion
 * [IEEE Spectrum](https://spectrum.ieee.org/) - news
 * [Interesting-People](https://ip.topicbox.com/groups/ip) - news
