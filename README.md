@@ -143,6 +143,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [IETF RFCs](https://www.rfc-editor.org/) - protocols
 * [Internet Disruption Report](https://internetdisruption.report/) - news/analysis
 * [The Internet Protocol Blog](https://theinternetprotocolblog.wordpress.com/) - IPv6
+* [The Internet Protocol Journal](https://ipj.dreamhosters.com) - protocols
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
