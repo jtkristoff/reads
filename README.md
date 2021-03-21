@@ -69,6 +69,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
+* [Pepe Vila's Blog](https://blog.vwzq.net/posts) - security/programming
 
 ### infotech
 * [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
