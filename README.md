@@ -26,7 +26,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 
 ### hardware/software
 * [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
-* [Planet Debian](https://planet.debian.org/) - Debian
 * [Fedora Magazine](https://fedoramagazine.org/) - Fedora
 * [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/) - FreeBSD
 * [Gnome blogs](https://blogs.gnome.org/) - Linux
@@ -35,6 +34,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
 * [OpenBSD Journal](https://undeadly.org) - OpenBSD
 * [OSnews](https://www.osnews.com/) - Unix/Windows
+* [Planet Debian](https://planet.debian.org/) - Debian
 * [Tor Blog](https://blog.torproject.org/) - Tor
 
 ### infosec
@@ -76,6 +76,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM TechNews](http://technews.acm.org/) - news
+* [Daniel Aleksandersen's blog](https://www.ctrl.blog/) - systems/programming
 * [Arabesque](https://sanctum.geek.nz/arabesque/) - systems
 * [arXiv.org](https://arxiv.org/) - research
 * [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/) - news/analysis
@@ -91,9 +92,9 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
 * [CircleID](http://www.circleid.com/) - news/opinion
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
+* [codeblog](https://outflux.net/blog/) - linux/security
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
-* [Daniel Aleksandersen's blog](https://www.ctrl.blog/) - systems/programming
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
@@ -166,9 +167,9 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 ### programming
 * [Amos' writings](https://fasterthanli.me/) - Rust
 * [&lt;antirez&gt;](http://antirez.com) - redis
+* [blogs.perl.org](http://blogs.perl.org/) - Perl
 * [The Go BLog](https://blog.golang.org/) - Go
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
-* [blogs.perl.org](http://blogs.perl.org/) - Perl
 * [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
 * [Mouse vs. Python](https://www.blog.pythonlibrary.org/) - Python
 * [Network to Code blog](https://blog.networktocode.com/) - automation
