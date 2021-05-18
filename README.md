@@ -60,6 +60,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Joseph Menn articles](https://www.reuters.com/journalists/joseph-menn) - news
 * [Microsoft Malware Protection Center](https://blogs.technet.microsoft.com/mmpc/) - malware/analysis
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
+* [Mozilla Attack & Defense blog](https://blog.mozilla.org/attack-and-defense/) - analysis/research
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
@@ -89,6 +90,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [bit-player](http://bit-player.org/) - mathematics
 * [Arturo Borrero's blog](https://ral-arturo.org/) - software
 * [James Burnett's Blog](https://blog.dical.org/) - systems
+* [Center for Internet Security and Society blog](https://cyberlaw.stanford.edu/blog) - law
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
 * [CircleID](http://www.circleid.com/) - news/opinion
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
@@ -167,6 +169,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Amos' writings](https://fasterthanli.me/) - Rust
 * [&lt;antirez&gt;](http://antirez.com) - redis
 * [blogs.perl.org](http://blogs.perl.org/) - Perl
+* [Claus Lensbol's blog](https://blog.cmol.me/) -Ruby
 * [The Go BLog](https://blog.golang.org/) - Go
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
 * [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
