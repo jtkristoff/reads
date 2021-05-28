@@ -115,12 +115,13 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
-* [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
+* [Ohio State Technology Law Journal](https://moritzlaw.osu.edu/ostlj/) - law/policy
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Protocol](https://www.protocol.com/) - news
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Avi Rubin's Blog](http://avi-rubin.blogspot.com/) - security
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
+* [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
