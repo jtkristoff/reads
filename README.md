@@ -108,6 +108,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
 * [Hacker News](https://news.ycombinator.com) - news
 * [Bert Hubert's articles](https://berthub.eu/articles/) - science/opinion
+* [IEEE Annals of the History of Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=85) - analysis
 * [IEEE Spectrum](https://spectrum.ieee.org/) - news
 * [Interesting-People](https://ip.topicbox.com/groups/ip) - news
 * [Internet Society Blog](https://www.internetsociety.org/blog/) - news
