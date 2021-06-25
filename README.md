@@ -78,7 +78,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM TechNews](http://technews.acm.org/) - news
 * [Daniel Aleksandersen's blog](https://www.ctrl.blog/) - systems/programming
-* [Arabesque](https://sanctum.geek.nz/arabesque/) - systems
 * [arXiv.org](https://arxiv.org/) - research
 * [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/) - news/analysis
 * [Ken Auer's Blog](http://biplane.com.au/blog/) - systems
