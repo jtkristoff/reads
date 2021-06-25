@@ -137,6 +137,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Stephane Bortzmeyer's blog](https://www.bortzmeyer.org) - protocols
 * [CAIDA](https://www.caida.org/) - research/analysis
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
+* [The Daily Dose of IETF](https://tools.ietf.org/dailydose/) - protocols/news
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
 * [The Elegant Network](https://elegantnetwork.github.io/) - protocols/engineering
 * [The Forwarding Plane](https://forwardingplane.net/) - engineering/protocols
