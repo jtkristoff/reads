@@ -119,7 +119,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Protocol](https://www.protocol.com/) - news
 * [Research at Google](https://research.google.com/) - research/analysis
-* [Avi Rubin's Blog](http://avi-rubin.blogspot.com/) - security
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
