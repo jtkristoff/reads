@@ -41,6 +41,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Akamai Security Intelligence &amp; Threat Research Blog](https://blogs.akamai.com/sitr/) - analysis
 * [Anonymity bibliography](https://www.freehaven.net/anonbib/) - research
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
+* [Adam Caudill's blog](https://adamcaudill.com/blog/) - opinion/analysis
 * [CISO Tuesdays](https://medium.com/ciso-tuesdays) - opinion
 * [Citizen Lab research](https://citizenlab.ca/category/research/) - privacy/analysis
 * [Corelight Blog](https://corelight.blog/) - analysis
