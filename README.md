@@ -71,6 +71,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Soatok's blog](https://soatok.blog/b/) - crypto
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
+* [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
 * [Pepe Vila's Blog](https://blog.vwzq.net/posts) - security/programming
 
