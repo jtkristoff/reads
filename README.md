@@ -53,6 +53,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [F-Secure Blog](https://blog.f-secure.com/) - analysis
 * [Farsight Security Blog](https://www.farsightsecurity.com/blog/) - analysis
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
+* [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
 * [InfoSec Handlers Diary Blog](https://isc.sans.edu/diary.html) - analysis
