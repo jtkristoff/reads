@@ -161,6 +161,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [Networking notes](https://blog.computer-networking.info/) - protocols
 * [NLnet Labs Blog](https://medium.com/nlnetlabs) - protocols/software
+* [Julio Perez's Blog](https://juliopdx.com/blog/) - routing/protocols
 * [Oracle Internet Intelligence Blog](https://blogs.oracle.com/internetintelligence/) - routing/analysis
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [Rip Van Webble](https://rip-van-webble.blogspot.com/) - protocols/analysis
