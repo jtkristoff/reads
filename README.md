@@ -38,7 +38,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Tor Blog](https://blog.torproject.org/) - Tor
 
 ### infosec
-* [Akamai Security Intelligence &amp; Threat Research Blog](https://blogs.akamai.com/sitr/) - analysis
+* [Akamai Blog](https://www.akamai.com/blog) - analysis
 * [Anonymity bibliography](https://www.freehaven.net/anonbib/) - research
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
 * [Adam Caudill's blog](https://adamcaudill.com/blog/) - opinion/analysis
