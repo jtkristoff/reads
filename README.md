@@ -120,6 +120,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
+* [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Ohio State Technology Law Journal](https://moritzlaw.osu.edu/ostlj/) - law/policy
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
@@ -185,4 +186,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Network to Code blog](https://blog.networktocode.com/) - automation
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
+* [Ruby Weekly](https://rubyweekly.com/issues) - Ruby
+* [This Week in Rust](https://this-week-in-rust.org/) - Rust
 * [Sebastian Witowski Blog](https://switowski.com/blog/) - Python
