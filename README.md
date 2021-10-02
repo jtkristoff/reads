@@ -101,6 +101,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
+* [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
 * [End Point Blog](https://www.endpoint.com/blog) - systems/programming
