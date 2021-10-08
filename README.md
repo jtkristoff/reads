@@ -130,6 +130,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
+* [Telecom Expert](https://medium.com/telecom-expert) - analysis
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
 * [Warner's Random Hacking Blog](http://bsdimp.blogspot.com/) - systems/programming
