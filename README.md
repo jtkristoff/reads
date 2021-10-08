@@ -84,7 +84,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Daniel Aleksandersen's blog](https://www.ctrl.blog/) - systems/programming
 * [arXiv.org](https://arxiv.org/) - research
 * [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/) - news/analysis
-* [Ken Auer's Blog](http://biplane.com.au/blog/) - systems
 * [B2fxxx](https://b2fxxx.blogspot.com/) - law
 * [John Batelle's Search Blog](http://battellemedia.com/) - news/analysis
 * [Steve Bellovin's Blog](https://www.cs.columbia.edu/~smb/blog/) - opinion
