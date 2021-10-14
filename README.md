@@ -96,6 +96,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
 * [CircleID](http://www.circleid.com/) - news/opinion
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
+* [Cloudflare Research](https://research.cloudflare.com/) - networking/security
 * [codeblog](https://outflux.net/blog/) - linux/security
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
