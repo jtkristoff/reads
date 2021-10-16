@@ -105,6 +105,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
 * [End Point Blog](https://www.endpoint.com/blog) - systems/programming
+* [Fastly Blog](https://www.fastly.com/blog) - systems/security
 * [Julia Evans](https://jvns.ca/) - programming/systems
 * [First Monday](http://firstmonday.org/) - research/analysis
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
