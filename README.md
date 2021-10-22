@@ -126,6 +126,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Ohio State Technology Law Journal](https://moritzlaw.osu.edu/ostlj/) - law/policy
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
+* [Pluralistic](https://pluralistic.net/) - links/news
 * [Protocol](https://www.protocol.com/) - news
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
