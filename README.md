@@ -191,6 +191,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Network to Code blog](https://blog.networktocode.com/) - automation
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
+* [RCE Endeavors](https://www.codereversing.com/blog/) - reversing
 * [Ruby Weekly](https://rubyweekly.com/issues) - Ruby
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust
 * [Sebastian Witowski Blog](https://switowski.com/blog/) - Python
