@@ -100,6 +100,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
+* [Debugger](https://debugger.medium.com/) - opinion/analysis
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
@@ -125,6 +126,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Ohio State Technology Law Journal](https://moritzlaw.osu.edu/study/law-journals/ostlj-ohio-state-technology-law-journal) - law/policy
+* [OneZero](https://onezero.medium.com/) - opinion/analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Pluralistic](https://pluralistic.net/) - links/news
 * [Protocol](https://www.protocol.com/) - news
