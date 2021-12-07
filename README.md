@@ -101,6 +101,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [Debugger](https://debugger.medium.com/) - opinion/analysis
+* [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
