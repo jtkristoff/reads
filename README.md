@@ -74,6 +74,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
+* [tl;dr sec](https://tldrsec.com/newsletter/) - news
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
 * [Pepe Vila's Blog](https://blog.vwzq.net/posts) - security/programming
 
@@ -138,6 +139,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Telecom Expert](https://medium.com/telecom-expert) - analysis
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
+* [Unsupervised learning](https://danielmiessler.com/newsletter/) - news
 * [Warner's Random Hacking Blog](http://bsdimp.blogspot.com/) - systems/programming
 * [Weberblog.net](https://weberblog.net/) - networking/security
 * [Wikimedia tech blog](https://phabricator.wikimedia.org/phame/) - systems/networking
