@@ -123,12 +123,14 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Internet Society Blog](https://www.internetsociety.org/blog/) - news
 * [Internet Society Pulse](https://pulse.internetsociety.org/) - analysis/news
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
+* [Robert Kisteleki's blog](https://kistel.eu/blog/) - networking/software
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
 * [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Ohio State Technology Law Journal](https://moritzlaw.osu.edu/study/law-journals/ostlj-ohio-state-technology-law-journal) - law/policy
 * [OneZero](https://onezero.medium.com/) - opinion/analysis
+* [Avery Pennarun's blog](https://apenwarr.ca/log/) - opinion
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Pluralistic](https://pluralistic.net/) - links/news
 * [Protocol](https://www.protocol.com/) - news
