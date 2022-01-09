@@ -93,6 +93,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [bit-player](http://bit-player.org/) - mathematics
 * [Arturo Borrero's blog](https://ral-arturo.org/) - software
 * [James Burnett's Blog](https://blog.dical.org/) - systems
+* [Center for Democracy & Technology](https://cdt.org/) - policy/analysis
 * [Center for Internet Security and Society blog](https://cyberlaw.stanford.edu/blog) - law
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
 * [CircleID](http://www.circleid.com/) - news/opinion
