@@ -134,6 +134,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Avery Pennarun's blog](https://apenwarr.ca/log/) - opinion
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Pluralistic](https://pluralistic.net/) - links/news
+* [POTs and PANs]((https://potsandpansbyccg.com/) - analysis/opinion
 * [Protocol](https://www.protocol.com/) - news
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
