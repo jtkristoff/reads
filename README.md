@@ -46,7 +46,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Citizen Lab research](https://citizenlab.ca/category/research/) - privacy/analysis
 * [Corelight Blog](https://corelight.blog/) - analysis
 * [cryptologie](https://cryptologie.net/) - crypto
-* [Dancho Danchev's Blog](https://ddanchev.blogspot.com/) - malware/analysis
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
