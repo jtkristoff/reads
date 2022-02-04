@@ -51,6 +51,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
 * [F-Secure Blog](https://blog.f-secure.com/) - analysis
 * [Farsight Security Blog](https://www.farsightsecurity.com/blog/) - analysis
+* [GitHub Security Lab](https://github.blog/tag/github-security-lab/) - analysis
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
@@ -67,7 +68,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
-* [Security Lab research](https://securitylab.github.com/research) - analysis
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Soatok's blog](https://soatok.blog/b/) - crypto
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
