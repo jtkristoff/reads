@@ -64,6 +64,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
 * [Mozilla Attack & Defense blog](https://blog.mozilla.org/attack-and-defense/) - analysis/research
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
+* [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
