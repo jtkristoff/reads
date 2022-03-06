@@ -174,6 +174,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
+* [Monash IP Observator](https://medium.com/insights-monash-university-ip-observatory) - analysis
 * [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [Networking notes](https://blog.computer-networking.info/) - protocols
@@ -186,6 +187,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ScramWorks](https://articles.scramworks.net/) - protocols/security
 * [SI6 Networks Blog](http://blog.si6networks.com/) - protocols/security
 * [Systems Approach Blog](https://www.systemsapproach.org/blog) - protocols/analysis
+* [ThousandEyes Blog](https://www.thousandeyes.com/blog/) - analysis
 * [USENIX](https://www.usenix.org/) - research/analysis
 
 ### programming
