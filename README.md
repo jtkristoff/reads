@@ -34,6 +34,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [LWN](https://lwn.net/) - Linux
 * [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
 * [OpenBSD Journal](https://undeadly.org) - OpenBSD
+* [OpenBSD Webzine](https://webzine.puffy.cafe/) - OpenBSD
 * [OSnews](https://www.osnews.com/) - Unix/Windows
 * [Planet Debian](https://planet.debian.org/) - Debian
 * [Tor Blog](https://blog.torproject.org/) - Tor
