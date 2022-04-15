@@ -25,6 +25,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Science](https://www.sciencemag.org/) - research/news
 
 ### hardware/software
+* [Android developers blog](https://android-developers.googleblog.com) - Android
 * [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
 * [Fedora Magazine](https://fedoramagazine.org/) - Fedora
 * [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/) - FreeBSD
