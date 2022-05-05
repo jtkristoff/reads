@@ -77,6 +77,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
 * [tl;dr sec](https://tldrsec.com/newsletter/) - news
+* [TorrentFreak](https://torrentfreak.com/) - privacy
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
 * [Pepe Vila's Blog](https://blog.vwzq.net/posts) - security/programming
 
