@@ -147,6 +147,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Protocol](https://www.protocol.com/) - news
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
+* [Chris Siebenmann's blog](https://utcc.utoronto.ca/~cks/space/blog/) - analysis/opinion
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
 * [Tech Policy Press](https://techpolicy.press/) - analysis/opinion
