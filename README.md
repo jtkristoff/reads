@@ -196,7 +196,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [routingcraft](https://routingcraft.net/) - routing/analysis
 * [ScramWorks](https://articles.scramworks.net/) - protocols/security
 * [SI6 Networks Blog](http://blog.si6networks.com/) - protocols/security
-* [Systems Approach Blog](https://www.systemsapproach.org/blog) - protocols/analysis
+* [Systems Approach Newsletter](https://systemsapproach.substack.com/archive) - protocols/analysis
 * [ThousandEyes Blog](https://www.thousandeyes.com/blog/) - analysis
 * [USENIX](https://www.usenix.org/) - research/analysis
 
