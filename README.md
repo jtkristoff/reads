@@ -188,7 +188,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [Networking notes](https://blog.computer-networking.info/) - protocols
-* [NLnet Labs Blog](https://medium.com/nlnetlabs) - protocols/software
+* [NLnet Labs Blog](https://blog.nlnetlabs.nl/) - protocols/software
 * [Julio Perez's Blog](https://juliopdx.com/blog/) - routing/protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [Rip Van Webble](https://rip-van-webble.blogspot.com/) - protocols/analysis
