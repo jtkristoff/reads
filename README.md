@@ -65,7 +65,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [InfoSec Handlers Diary Blog](https://isc.sans.edu/diary.html) - analysis
 * [Krebs on Security](http://krebsonsecurity.com/) - news
 * [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - analysis/research
-* [The Lucid Privacy Group](https://lucidprivacy.io/) - privacy/security
+* [The Lucid Privacy Group blog](https://lucid-privacy-group.ghost.io/) - privacy/security
 * [Microsoft Malware Protection Center](https://blogs.technet.microsoft.com/mmpc/) - malware/analysis
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
 * [Mozilla Attack & Defense blog](https://blog.mozilla.org/attack-and-defense/) - analysis/research
