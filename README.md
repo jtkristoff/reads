@@ -142,6 +142,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [OneZero](https://onezero.medium.com/) - opinion/analysis
 * [Avery Pennarun's blog](https://apenwarr.ca/log/) - opinion
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
+* [Planet Grep](https://planet.grep.be/) - systems/software
 * [Pluralistic](https://pluralistic.net/) - links/news
 * [POTs and PANs](https://potsandpansbyccg.com/) - analysis/opinion
 * [Protocol](https://www.protocol.com/) - news
