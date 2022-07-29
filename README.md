@@ -194,7 +194,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Rip Van Webble](https://rip-van-webble.blogspot.com/) - protocols/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
 * [routingcraft](https://routingcraft.net/) - routing/analysis
-* [ScramWorks](https://articles.scramworks.net/) - protocols/security
 * [SI6 Networks Blog](http://blog.si6networks.com/) - protocols/security
 * [Systems Approach Newsletter](https://systemsapproach.substack.com/archive) - protocols/analysis
 * [ThousandEyes Blog](https://www.thousandeyes.com/blog/) - analysis
