@@ -53,10 +53,10 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [cryptologie](https://cryptologie.net/) - crypto
 * [CyberScoop](https://www.cyberscoop.com/) - news
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
+* [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
 * [F-Secure Blog](https://blog.f-secure.com/) - analysis
-* [Farsight Security Blog](https://www.farsightsecurity.com/blog/) - analysis
 * [GitHub Security Lab](https://github.blog/tag/github-security-lab/) - analysis
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
