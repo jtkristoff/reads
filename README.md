@@ -149,6 +149,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
 * [Chris Siebenmann's blog](https://utcc.utoronto.ca/~cks/space/blog/) - analysis/opinion
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
+* [Slashdot](https://slashdot.org/) - news/opinion
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
 * [Tech Policy Press](https://techpolicy.press/) - analysis/opinion
 * [Telecom Expert](https://medium.com/telecom-expert) - analysis
