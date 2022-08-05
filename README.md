@@ -63,6 +63,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
 * [InfoSec Handlers Diary Blog](https://isc.sans.edu/diary.html) - analysis
+* [JISC blog](https://regulatorydevelopments.jiscinvolve.org/wp/) - analysis/opinion
 * [Krebs on Security](http://krebsonsecurity.com/) - news
 * [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - analysis/research
 * [The Lucid Privacy Group blog](https://lucid-privacy-group.ghost.io/) - privacy/security
