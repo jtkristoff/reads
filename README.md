@@ -70,6 +70,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Microsoft Malware Protection Center](https://blogs.technet.microsoft.com/mmpc/) - malware/analysis
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
 * [Mozilla Attack & Defense blog](https://blog.mozilla.org/attack-and-defense/) - analysis/research
+* [NCC Group Research](https://research.nccgroup.com/) - analysis/research
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
 * [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
