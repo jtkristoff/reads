@@ -44,7 +44,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 
 ### infosec
 * [Akamai Blog](https://www.akamai.com/blog) - analysis
-* [Anonymity bibliography](https://www.freehaven.net/anonbib/) - research
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
 * [Adam Caudill's blog](https://adamcaudill.com/blog/) - opinion/analysis
 * [Citizen Lab research](https://citizenlab.ca/category/research/) - privacy/analysis
