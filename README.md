@@ -112,6 +112,8 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
 * [Ariadne Conill's blog](https://ariadne.space/) - systems/programming
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
+* [Daily Host News](https://www.dailyhostnews.com/) - news
+* [Data Center Frontier](https://datacenterfrontier.com/) -news
 * [Debugger](https://debugger.medium.com/) - opinion/analysis
 * [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
