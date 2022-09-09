@@ -17,6 +17,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Foreign Policy](https://foreignpolicy.com/) - essays/international
 * [The New York Times](https://www.nytimes.com) - news/US
 * [New York Magazine](https://nymag.com/) - news/US
+* [ProPublica](https://www.propublica.org/) - news
 * [The Washington Post](https://www.washingtonpost.com) - news/US
 
 ### general science
@@ -83,6 +84,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
 * [tl;dr sec](https://tldrsec.com/newsletter/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
+* [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
 * [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
 
 ### infotech
