@@ -73,13 +73,14 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [NCC Group Research](https://research.nccgroup.com/) - analysis/research
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
 * [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
-* [Stranded on Pylos](https://pylos.co/) - analysis/opinion
+* [The Record](https://therecord.media/) - news
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Soatok's blog](https://soatok.blog/b/) - crypto
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
+* [Stranded on Pylos](https://pylos.co/) - analysis/opinion
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
 * [tl;dr sec](https://tldrsec.com/newsletter/) - news
