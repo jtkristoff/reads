@@ -79,7 +79,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Soatok's blog](https://soatok.blog/b/) - crypto
-* [CMU SEI publications] - analysis/research
+* [CMU SEI publications](https://www.sei.cmu.edu/publications/) - analysis/research
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
