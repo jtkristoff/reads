@@ -120,6 +120,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [Daily Host News](https://www.dailyhostnews.com/) - news
 * [Data Center Frontier](https://datacenterfrontier.com/) -news
+* [decoded.legal blog](https://decoded.legal/blog/) - law
 * [Debugger](https://debugger.medium.com/) - opinion/analysis
 * [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
@@ -170,6 +171,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Wikimedia tech blog](https://phabricator.wikimedia.org/phame/) - systems/networking
 * [Russ White's feedly](https://feedly.com/riw777) - news
 * [Wired](https://www.wired.com) - news
+* [Yes that Blog](https://www.yesthatblog.com/) - systems/opinion
 
 ### networking
 * [ACM SIGCOMM](http://www.sigcomm.org/) - research
