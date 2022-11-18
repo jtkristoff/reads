@@ -52,6 +52,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Cloud Security Reading List](https://cloudseclist.com/past-issues/) - news
 * [Corelight Blog](https://corelight.blog/) - analysis
 * [cryptologie](https://cryptologie.net/) - crypto
+* [Cyber Defence News for Blue & Purple Teams](https://bluepurple.substack.com/) - news
 * [CyberScoop](https://www.cyberscoop.com/) - news
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
@@ -193,29 +194,28 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
+* [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
 * [Monash IP Observator](https://medium.com/insights-monash-university-ip-observatory) - analysis
 * [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
-* [Networking notes](https://blog.computer-networking.info/) - protocols
 * [NLnet Labs Blog](https://blog.nlnetlabs.nl/) - protocols/software
 * [Julio Perez's Blog](https://juliopdx.com/blog/) - routing/protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [Rip Van Webble](https://rip-van-webble.blogspot.com/) - protocols/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
 * [routingcraft](https://routingcraft.net/) - routing/analysis
-* [SI6 Networks Blog](http://blog.si6networks.com/) - protocols/security
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
 * [Daryll Swer's blog](https://www.daryllswer.com/) - routing/protocols
 * [Systems Approach Newsletter](https://systemsapproach.substack.com/archive) - protocols/analysis
 * [TeleGeogrpahy Blog](https://blog.telegeography.com/) - analysis/news
 * [ThousandEyes Blog](https://www.thousandeyes.com/blog/) - analysis
 * [USENIX](https://www.usenix.org/) - research/analysis
+* [Rudolf Van Der Berg's blog](https://rudolfvanderberg.medium.com) - analysis/policy
 
 ### programming
 * [Amos' writings](https://fasterthanli.me/) - Rust
 * [&lt;antirez&gt;](http://antirez.com) - redis
 * [blogs.perl.org](http://blogs.perl.org/) - Perl
-* [Claus Lensbol's blog](https://blog.cmol.me/) -Ruby
 * [The Go BLog](https://blog.golang.org/) - Go
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
 * [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
@@ -223,7 +223,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Network to Code blog](https://blog.networktocode.com/) - automation
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
-* [RCE Endeavors](https://www.codereversing.com/blog/) - reversing
+* [RCE Endeavors](https://www.codereversing.com/) - reversing
 * [Ruby Weekly](https://rubyweekly.com/issues) - Ruby
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust
 * [Sebastian Witowski Blog](https://switowski.com/blog/) - Python
