@@ -34,6 +34,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/) - FreeBSD
 * [Gnome blogs](https://blogs.gnome.org/) - Linux
 * [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
+* [Klara Systems blog](https://klarasystems.com/articles/) - FreeBSD
 * [Last Week in AWS](https://www.lastweekinaws.com/blog/) - AWS
 * [LWN](https://lwn.net/) - Linux
 * [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
