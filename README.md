@@ -197,6 +197,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
+* [Justin Wilson's blog](https://blog.j2sw.com/) - routing
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
 * [Monash IP Observator](https://medium.com/insights-monash-university-ip-observatory) - analysis
 * [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
