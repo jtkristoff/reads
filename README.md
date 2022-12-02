@@ -154,7 +154,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Planet Grep](https://planet.grep.be/) - systems/software
 * [Pluralistic](https://pluralistic.net/) - links/news
 * [POTs and PANs](https://potsandpansbyccg.com/) - analysis/opinion
-* [Protocol](https://www.protocol.com/) - news
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
 * [Chris Siebenmann's blog](https://utcc.utoronto.ca/~cks/space/blog/) - analysis/opinion
