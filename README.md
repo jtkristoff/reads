@@ -184,7 +184,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
 * [The Elegant Network](https://elegantnetwork.github.io/) - protocols/engineering
 * [The Forwarding Plane](https://forwardingplane.net/) - engineering/protocols
-* [Christian Huitema's blog](https://huitema.wordpress.com/) - protocols
+* [Christian Huitema's blog](https://www.privateoctopus.com/blog.html) - protocols
 * [ICANN blog](https://www.icann.org/news/blog) - news
 * [ICSI](http://icir.org/) - networking/security
 * [IEEE Communications Surveys & Tutorials](https://www.comsoc.org/publications/journals/ieee-comst)
