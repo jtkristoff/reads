@@ -85,6 +85,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Soatok's blog](https://soatok.blog/b/) - crypto
 * [CMU SEI publications](https://www.sei.cmu.edu/publications/) - analysis/research
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
+* [Emily M. Stark's blog](https://emilymstark.com/blog.html) - analysis
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
