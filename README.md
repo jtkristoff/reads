@@ -77,6 +77,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [NCC Group Research](https://research.nccgroup.com/) - analysis/research
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
 * [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
+* [Wladimir Palant's blog](https://palant.info/) - web/crypto
 * [The Record](https://therecord.media/) - news
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
