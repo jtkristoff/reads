@@ -175,6 +175,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Russ White's feedly](https://feedly.com/riw777) - news
 * [Wired](https://www.wired.com) - news
 * [Yes that Blog](https://www.yesthatblog.com/) - systems/opinion
+* [Dan York's blog](https://www.disruptiveconversations.com/) - news/opinion
 
 ### networking
 * [ACM SIGCOMM](http://www.sigcomm.org/) - research
