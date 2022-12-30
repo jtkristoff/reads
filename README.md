@@ -150,7 +150,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Ohio State Technology Law Journal](https://moritzlaw.osu.edu/study/law-journals/ostlj-ohio-state-technology-law-journal) - law/policy
-* [Avery Pennarun's blog](https://apenwarr.ca/log/) - opinion
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Planet Grep](https://planet.grep.be/) - systems/software
 * [Pluralistic](https://pluralistic.net/) - links/news
