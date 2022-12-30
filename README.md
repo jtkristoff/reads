@@ -165,7 +165,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Slashdot](https://slashdot.org/) - news/opinion
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
 * [Tech Policy Press](https://techpolicy.press/) - analysis/opinion
-* [TELECOM Digest](http://telecom-digest.org/) - news
 * [Telecom Expert](https://medium.com/telecom-expert) - analysis
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
