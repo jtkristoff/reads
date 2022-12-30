@@ -206,7 +206,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [NLnet Labs Blog](https://blog.nlnetlabs.nl/) - protocols/software
 * [Julio Perez's Blog](https://juliopdx.com/blog/) - routing/protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
-* [Rip Van Webble](https://rip-van-webble.blogspot.com/) - protocols/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
 * [routingcraft](https://routingcraft.net/) - routing/analysis
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
