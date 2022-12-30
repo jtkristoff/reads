@@ -125,7 +125,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Daily Host News](https://www.dailyhostnews.com/) - news
 * [Data Center Frontier](https://datacenterfrontier.com/) -news
 * [decoded.legal blog](https://decoded.legal/blog/) - law
-* [Debugger](https://debugger.medium.com/) - opinion/analysis
 * [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
@@ -151,7 +150,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Ohio State Technology Law Journal](https://moritzlaw.osu.edu/study/law-journals/ostlj-ohio-state-technology-law-journal) - law/policy
-* [OneZero](https://onezero.medium.com/) - opinion/analysis
 * [Avery Pennarun's blog](https://apenwarr.ca/log/) - opinion
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Planet Grep](https://planet.grep.be/) - systems/software
