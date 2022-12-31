@@ -44,6 +44,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [OpenBSD Webzine](https://webzine.puffy.cafe/) - OpenBSD
 * [OSnews](https://www.osnews.com/) - Unix/Windows
 * [Planet Debian](https://planet.debian.org/) - Debian
+* [Daniel Stenberg's blog](https://daniel.haxx.se/blog/) - curl
 * [Tor Blog](https://blog.torproject.org/) - Tor
 
 ### infosec
