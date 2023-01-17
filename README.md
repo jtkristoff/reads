@@ -81,6 +81,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
 * [Wladimir Palant's blog](https://palant.info/) - web/crypto
 * [The Record](https://therecord.media/) - news
+* [The Red Canary Blog](https://redcanary.com/blog/) - malware/analysis
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
