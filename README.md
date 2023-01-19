@@ -110,6 +110,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [John Batelle's Search Blog](http://battellemedia.com/) - news/analysis
 * [Steve Bellovin's Blog](https://www.cs.columbia.edu/~smb/blog/) - opinion
 * [Benjojo's Blog](https://blog.benjojo.co.uk/) - networking/systems
+* [Robert Berjon's blog](https://berjon.com/) - privacy/opinion
 * [Berkman Center](https://cyber.law.harvard.edu/) - law/research
 * [bit-player](http://bit-player.org/) - mathematics
 * [Arturo Borrero's blog](https://ral-arturo.org/) - software
