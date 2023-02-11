@@ -187,6 +187,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Anurag Bhatia's blog](https://anuragbhatia.com/) - analysis/routing
 * [Stephane Bortzmeyer's blog](https://www.bortzmeyer.org) - protocols
 * [CAIDA](https://www.caida.org/) - research/analysis
+* [CENIC blog](https://cenic.org/blog) - engineering/research
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
 * [The Elegant Network](https://elegantnetwork.github.io/) - protocols/engineering
