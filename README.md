@@ -127,7 +127,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
 * [COMPUTERS ARE BAD](https://computer.rip/) - security/history
 * [Ariadne Conill's blog](https://ariadne.space/) - systems/programming
-* [Albert Corey's blog](https://albertcory50.substack.com/archive) - history/opinion
+* [Albert Cory aka Bob Purvy's blog](https://albertcory50.substack.com/archive) - history/opinion
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [Daily Host News](https://www.dailyhostnews.com/) - news
 * [Data Center Frontier](https://datacenterfrontier.com/) -news
