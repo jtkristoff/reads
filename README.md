@@ -138,6 +138,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
 * [Fastly Blog](https://www.fastly.com/blog) - systems/security
 * [Julia Evans](https://jvns.ca/) - programming/systems
+* [The Fediverse Report](https://fediversereport.com/) - software/news
 * [First Monday](http://firstmonday.org/) - research/analysis
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
 * [Jeff Geerling's blog](https://www.jeffgeerling.com/blog) - software/hardware
