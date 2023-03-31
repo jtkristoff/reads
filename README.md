@@ -172,7 +172,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Telecom Expert](https://medium.com/telecom-expert) - analysis
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
-* [Unsupervised learning](https://danielmiessler.com/newsletter/) - news
 * [Warner's Random Hacking Blog](http://bsdimp.blogspot.com/) - systems/programming
 * [Weberblog.net](https://weberblog.net/) - networking/security
 * [Wikimedia tech blog](https://phabricator.wikimedia.org/phame/) - systems/networking
