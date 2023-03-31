@@ -215,7 +215,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Julio Perez's Blog](https://juliopdx.com/blog/) - routing/protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
-* [routingcraft](https://routingcraft.net/) - routing/analysis
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
 * [Daryll Swer's blog](https://www.daryllswer.com/) - routing/protocols
 * [Systems Approach Newsletter](https://systemsapproach.substack.com/archive) - protocols/analysis
