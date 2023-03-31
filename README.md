@@ -83,6 +83,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Red Canary Blog](https://redcanary.com/blog/) - malware/analysis
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
+* [Risky Business News](https://riskybiznews.substack.com/) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Soatok's blog](https://soatok.blog/b/) - crypto
