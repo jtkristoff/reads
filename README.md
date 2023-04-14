@@ -67,7 +67,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
-* [InfoSec Handlers Diary Blog](https://isc.sans.edu/diary.html) - analysis
+* [InfoSec Handlers Diary Blog](https://isc.sans.edu/diaryarchive.html) - analysis
 * [JISC blog](https://regulatorydevelopments.jiscinvolve.org/wp/) - analysis/opinion
 * [Krebs on Security](http://krebsonsecurity.com/) - news
 * [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - analysis/research
