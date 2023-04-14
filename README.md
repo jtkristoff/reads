@@ -210,7 +210,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [NLnet Labs Blog](https://blog.nlnetlabs.nl/) - protocols/software
-* [Julio Perez's Blog](https://juliopdx.com/blog/) - routing/protocols
+* [Julio Perez's Blog](https://juliopdx.com/posts/) - routing/protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
