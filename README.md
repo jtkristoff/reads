@@ -95,7 +95,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [tl;dr sec](https://tldrsec.com/newsletter/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
 * [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
-* [US-CERT (CISA) Alerts](https://us-cert.cisa.gov/ncas/alerts) - analysis
 
 ### infotech
 * [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
