@@ -32,7 +32,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
 * [Fedora Magazine](https://fedoramagazine.org/) - Fedora
 * [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/) - FreeBSD
-* [Gnome blogs](https://blogs.gnome.org/) - Linux
 * [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
 * [Klara Systems blog](https://klarasystems.com/articles/) - FreeBSD
 * [Last Week in AWS](https://www.lastweekinaws.com/blog/) - AWS
