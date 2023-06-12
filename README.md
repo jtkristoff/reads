@@ -155,6 +155,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Lukasz Olejnik's blog](https://blog.lukaszolejnik.com/) - opinion/analysis
+* [Swapneel Patnekar's blog](https://shreshtait.com/blog/) - analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Planet Grep](https://planet.grep.be/) - systems/software
 * [Pluralistic](https://pluralistic.net/) - links/news
