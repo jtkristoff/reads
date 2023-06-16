@@ -58,6 +58,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Cyber Defence News for Blue & Purple Teams](https://bluepurple.substack.com/) - news
 * [CyberScoop](https://www.cyberscoop.com/) - news
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
+* [The DFIR Report](https://thedfirreport.com/) - analysis
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
