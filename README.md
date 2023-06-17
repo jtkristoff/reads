@@ -206,6 +206,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
 * [Justin Wilson's blog](https://blog.j2sw.com/) - routing
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
+* [Marikku Leinio's blog](https://majornetwork.net/) - protocols
 * [Jan-Piet Mens archives](https://jpmens.net/archive/) - DNS/systems
 * [Monash IP Observator](https://medium.com/insights-monash-university-ip-observatory) - analysis
 * [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
