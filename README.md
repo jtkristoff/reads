@@ -93,7 +93,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
-* [tl;dr sec](https://tldrsec.com/newsletter/) - news
+* [tl;dr sec](https://tldrsec.com/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
 * [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
 
