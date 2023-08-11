@@ -77,6 +77,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
 * [NCC Group Research](https://research.nccgroup.com/) - analysis/research
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
+* [NIST CSRC publications](https://csrc.nist.gov/Publications) - security/analysis
 * [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
 * [Wladimir Palant's blog](https://palant.info/) - web/crypto
 * [The Record](https://therecord.media/) - news
