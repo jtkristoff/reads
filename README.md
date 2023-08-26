@@ -48,6 +48,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 
 ### infosec
 * [Akamai Blog](https://www.akamai.com/blog) - analysis
+* [AT&T cybersecurity blog](https://cybersecurity.att.com/blogs) - analysis
 * [AWS security blog](https://aws.amazon.com/blogs/security/) - analysis
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
 * [Adam Caudill's blog](https://adamcaudill.com/blog/) - opinion/analysis
