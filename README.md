@@ -63,6 +63,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
+* [ESET welivesecurity](https://www.welivesecurity.com/en/) - analysis
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
 * [GitHub Security Lab](https://github.blog/tag/github-security-lab/) - analysis
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
