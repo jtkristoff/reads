@@ -60,6 +60,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [CyberScoop](https://www.cyberscoop.com/) - news
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
 * [The DFIR Report](https://thedfirreport.com/) - analysis
+* [Digital Investigations](https://digitalinvestigations.substack.com/archive) - news
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
