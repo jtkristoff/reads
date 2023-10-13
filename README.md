@@ -239,6 +239,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
 * [Mouse vs. Python](https://www.blog.pythonlibrary.org/) - Python
 * [Network to Code blog](https://blog.networktocode.com/) - automation
+* [The New Stack](https://thenewstack.io/) - software development
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
 * [RCE Endeavors](https://www.codereversing.com/) - reversing
