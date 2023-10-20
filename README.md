@@ -85,6 +85,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
 * [Wladimir Palant's blog](https://palant.info/) - web/crypto
 * [Palo Alto Networks Unit42 blog](https://unit42.paloaltonetworks.com/) - malware/analysis
+* [PortSwigger research](https://portswigger.net/research) - analysis/research
 * [The Record](https://therecord.media/) - news
 * [The Red Canary Blog](https://redcanary.com/blog/) - malware/analysis
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
