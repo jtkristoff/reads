@@ -235,6 +235,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Amos' writings](https://fasterthanli.me/) - Rust
 * [&lt;antirez&gt;](http://antirez.com) - redis
 * [blogs.perl.org](http://blogs.perl.org/) - Perl
+* [Bramus Van Damme's blog](https://www.bram.us/) - web development
 * [The Go BLog](https://blog.golang.org/) - Go
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
 * [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
