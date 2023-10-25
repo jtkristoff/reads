@@ -159,6 +159,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
 * [Robert Kisteleki's blog](https://kistel.eu/blog/) - networking/software
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
+* [lcamtuf's thing](https://lcamtuf.substack.com/archive) - analysis
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
 * [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
