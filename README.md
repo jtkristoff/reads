@@ -56,7 +56,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Cloud Security Reading List](https://cloudseclist.com/past-issues/) - news
 * [Corelight Blog](https://corelight.blog/) - analysis
 * [cryptologie](https://cryptologie.net/) - crypto
-* [Cyber Defence News for Blue & Purple Teams](https://bluepurple.substack.com/) - news
+* [CTO at NCSC - Cyber Defence Analysis](https://ctoatncsc.substack.com/archive) - news
 * [CyberScoop](https://www.cyberscoop.com/) - news
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
 * [The DFIR Report](https://thedfirreport.com/) - analysis
