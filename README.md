@@ -224,6 +224,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Fabrizzio Petrucci's blog](https://compumundohipermegared.one/) - routing/protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
+* [SIDN Labs news and blog](https://www.sidnlabs.nl/en/news-and-blogs) - protocols/news
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
 * [Daryll Swer's blog](https://www.daryllswer.com/) - routing/protocols
 * [Systems Approach Newsletter](https://systemsapproach.substack.com/archive) - protocols/analysis
