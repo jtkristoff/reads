@@ -38,7 +38,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [LWN](https://lwn.net/) - Linux
 * [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
 * [Now in Android](https://developer.android.com/series/now-in-android) - Android
-* [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Windows
 * [OpenBSD Journal](https://undeadly.org) - OpenBSD
 * [OpenBSD Webzine](https://webzine.puffy.cafe/) - OpenBSD
 * [OSnews](https://www.osnews.com/) - Unix/Windows
@@ -246,6 +245,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Mouse vs. Python](https://www.blog.pythonlibrary.org/) - Python
 * [Network to Code blog](https://blog.networktocode.com/) - automation
 * [The New Stack](https://thenewstack.io/) - software development
+* [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Windows
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
 * [RCE Endeavors](https://www.codereversing.com/) - reversing
