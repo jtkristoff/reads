@@ -1,6 +1,7 @@
 # reads
 Sources of (mostly) technical (mostly long and worthwhile) reads
 
+* [business][#business)
 * [general news](#general-news)
 * [general science](#general-science)
 * [hardware/software](#hardware/software)
@@ -8,6 +9,9 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [infotech](#infotech)
 * [networking](#networking)
 * [programming](#programming)
+
+### business
+* [Fabricated Knowledge](https://www.fabricatedknowledge.com/archive) - stocks
 
 ### general news
 * [The Atlantic](https://www.theatlantic.com) - essays/US
