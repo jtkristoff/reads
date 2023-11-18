@@ -60,6 +60,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Corelight Blog](https://corelight.blog/) - analysis
 * [cryptologie](https://cryptologie.net/) - crypto
 * [CTO at NCSC - Cyber Defence Analysis](https://ctoatncsc.substack.com/archive) - news
+* [cybersec](https://cybersect.substack.com/archive) - analysis/opinion
 * [CyberScoop](https://www.cyberscoop.com/) - news
 * [DataBreaches.net](https://www.databreaches.net/) - news
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
@@ -104,6 +105,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
 * [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
 * [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
+* [this week in security](https://us18.campaign-archive.com/home/?u=e1ad6038c994abec17dafb116&id=a2457dc8ad) - news
 * [tl;dr sec](https://tldrsec.com/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
 * [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
