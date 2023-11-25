@@ -165,6 +165,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Internet Society Pulse](https://pulse.internetsociety.org/) - analysis/news
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
 * [Robert Kisteleki's blog](https://kistel.eu/blog/) - networking/software
+* [Mallory Knodel's blog](https://internet.exchangepoint.tech/) - opinion/policy
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [lcamtuf's thing](https://lcamtuf.substack.com/archive) - analysis
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
