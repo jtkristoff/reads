@@ -71,6 +71,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
 * [ESET welivesecurity](https://www.welivesecurity.com/en/) - analysis
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
+* [Geant R&E cybersec newsletter](https://security.geant.org/security-newsletter/) - news
 * [GitHub Security Lab](https://github.blog/tag/github-security-lab/) - analysis
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
