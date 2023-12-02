@@ -70,6 +70,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
 * [ESET welivesecurity](https://www.welivesecurity.com/en/) - analysis
+* [Feisty Duck newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/) - crypto
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
 * [Geant R&E cybersec newsletter](https://security.geant.org/security-newsletter/) - news
 * [GitHub Security Lab](https://github.blog/tag/github-security-lab/) - analysis
