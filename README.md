@@ -1,7 +1,7 @@
 # reads
 Sources of (mostly) technical (mostly long and worthwhile) reads
 
-* [business][#business)
+* [business](#business)
 * [general news](#general-news)
 * [general science](#general-science)
 * [hardware/software](#hardware/software)
