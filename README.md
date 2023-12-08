@@ -76,6 +76,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [GitHub Security Lab](https://github.blog/tag/github-security-lab/) - analysis
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
+* [Greynoise blog](https://www.greynoise.io/blog) analysis/malware
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
 * [InfoSec Handlers Diary Blog](https://isc.sans.edu/diaryarchive.html) - analysis
@@ -101,6 +102,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Risky Business News](https://riskybiznews.substack.com/) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
+* [Shadowserver news/insight](https://www.shadowserver.org/news-insights/) - analysis/malware
 * [Soatok's blog](https://soatok.blog/b/) - crypto
 * [CMU SEI publications](https://www.sei.cmu.edu/publications/) - analysis/research
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
