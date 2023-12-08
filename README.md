@@ -83,6 +83,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Krebs on Security](http://krebsonsecurity.com/) - news
 * [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - analysis/research
 * [The Lucid Privacy Group blog](https://lucid-privacy-group.ghost.io/) - privacy/security
+* [Malwarebytes Labs blog](https://www.malwarebytes.com/blog) - analysis/news
 * [MANRS blog](https://www.manrs.org/blog/) - routing
 * [Microsoft Malware Protection Center](https://blogs.technet.microsoft.com/mmpc/) - malware/analysis
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
