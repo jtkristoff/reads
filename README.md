@@ -77,6 +77,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
 * [Greynoise blog](https://www.greynoise.io/blog) analysis/malware
+* [grugq's newsletter](https://buttondown.email/grugq/archive/) - news/analysis
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
 * [InfoSec Handlers Diary Blog](https://isc.sans.edu/diaryarchive.html) - analysis
@@ -227,6 +228,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [IPng Networks articles](https://ipng.ch/s/articles/) - protocols/systems
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
+* [Ierresponsible Disclosure](https://blog.daknob.net/) - protocols/security
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
 * [Justin Wilson's blog](https://blog.j2sw.com/) - routing
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
