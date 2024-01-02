@@ -212,6 +212,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Stephane Bortzmeyer's blog](https://www.bortzmeyer.org) - protocols
 * [CAIDA](https://www.caida.org/) - research/analysis
 * [CENIC blog](https://cenic.org/blog) - engineering/research
+* [Jim Cowie's blog](https://content.cooperate.com/post/) - analysis
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
 * [The Forwarding Plane](https://forwardingplane.net/) - engineering/protocols
