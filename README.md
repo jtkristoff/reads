@@ -54,6 +54,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Akamai Blog](https://www.akamai.com/blog) - analysis
 * [AT&T cybersecurity blog](https://cybersecurity.att.com/blogs) - analysis
 * [AWS security blog](https://aws.amazon.com/blogs/security/) - analysis
+* [Bellingcat blog](https://www.bellingcat.com/resources/) - analysis
 * [C-skills](https://c-skills.blogspot.com/) - analysis/software
 * [Adam Caudill's blog](https://adamcaudill.com/blog/) - opinion/analysis
 * [Citizen Lab research](https://citizenlab.ca/category/research/) - privacy/analysis
