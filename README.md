@@ -194,6 +194,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Slashdot](https://slashdot.org/) - news/opinion
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
+* [Techjournalist](https://techjournalism.medium.com/) - analysis
 * [Tech Policy Press](https://techpolicy.press/) - analysis/opinion
 * [Technology and Marketing Law blog](https://blog.ericgoldman.org/) - law/analysis
 * [Telecom Expert](https://medium.com/telecom-expert) - analysis
