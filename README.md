@@ -234,7 +234,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [IPng Networks articles](https://ipng.ch/s/articles/) - protocols/systems
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
-* [Ierresponsible Disclosure](https://blog.daknob.net/) - protocols/security
+* [Irresponsible Disclosure](https://blog.daknob.net/) - protocols/security
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
 * [Justin Wilson's blog](https://blog.j2sw.com/) - routing
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
