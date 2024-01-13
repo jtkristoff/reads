@@ -253,7 +253,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [SIDN Labs news and blog](https://www.sidnlabs.nl/en/news-and-blogs) - protocols/news
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
 * [Daryll Swer's blog](https://www.daryllswer.com/) - routing/protocols
-* [Systems Approach Newsletter](https://systemsapproach.substack.com/archive) - protocols/analysis
+* [Systems Approach Newsletter](https://systemsapproach.org/newsletter/) - protocols/analysis
 * [TeleGeogrpahy Blog](https://blog.telegeography.com/) - analysis/news
 * [ThousandEyes Blog](https://www.thousandeyes.com/blog/) - analysis
 * [USENIX](https://www.usenix.org/) - research/analysis
