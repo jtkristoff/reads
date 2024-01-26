@@ -108,6 +108,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Shadowserver news/insight](https://www.shadowserver.org/news-insights/) - analysis/malware
+* [Shostack + Associates blog](https://shostack.org/blog) - analysis
 * [Soatok's blog](https://soatok.blog/b/) - crypto
 * [CMU SEI publications](https://www.sei.cmu.edu/publications/) - analysis/research
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
