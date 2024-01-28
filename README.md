@@ -216,6 +216,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Anurag Bhatia's blog](https://anuragbhatia.com/) - analysis/routing
 * [ARPA Playbook newsletter](https://www.freaktakes.com/s/arpa-playbook) - history
 * [Stephane Bortzmeyer's blog](https://www.bortzmeyer.org) - protocols
+* [CableLabs blog](https://www.cablelabs.com/blog) - protocols/engineering
 * [CAIDA](https://www.caida.org/) - research/analysis
 * [CENIC blog](https://cenic.org/blog) - engineering/research
 * [Jim Cowie's blog](https://content.cooperate.com/post/) - analysis
