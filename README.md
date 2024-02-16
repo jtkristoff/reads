@@ -104,7 +104,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Red Canary Blog](https://redcanary.com/blog/) - malware/analysis
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
-* [Risky Business News](https://riskybiznews.substack.com/) - news
+* [Risky Business News](https://news.risky.biz/) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Shadowserver news/insight](https://www.shadowserver.org/news-insights/) - analysis/malware
