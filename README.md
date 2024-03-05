@@ -159,6 +159,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
+* [Engineering at Meta](https://engineering.fb.com/) - software/systems
 * [Fastly Blog](https://www.fastly.com/blog) - systems/security
 * [Julia Evans](https://jvns.ca/) - programming/systems
 * [The Fediverse Report](https://fediversereport.com/) - software/news
