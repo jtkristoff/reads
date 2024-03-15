@@ -23,6 +23,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The New York Times](https://www.nytimes.com) - news/US
 * [New York Magazine](https://nymag.com/) - news/US
 * [ProPublica](https://www.propublica.org/) - news
+* [Reuters](https://www.reuters.com/) - news
 * [The Washington Post](https://www.washingtonpost.com) - news/US
 
 ### general science
