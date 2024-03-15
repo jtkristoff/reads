@@ -282,3 +282,4 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Ruby Weekly](https://rubyweekly.com/issues) - Ruby
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust
 * [Sebastian Witowski Blog](https://switowski.com/blog/) - Python
+* [Sutter's Mill](https://herbsutter.com/) - C++
