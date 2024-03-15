@@ -78,6 +78,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Geant R&E cybersec newsletter](https://security.geant.org/security-newsletter/) - news
 * [GitHub Security Lab](https://github.blog/tag/github-security-lab/) - analysis
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
+* [Google Security blog](https://security.googleblog.com/) - analysis/news
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
 * [Greynoise blog](https://www.greynoise.io/blog) analysis/malware
 * [grugq's newsletter](https://buttondown.email/grugq/archive/) - news/analysis
