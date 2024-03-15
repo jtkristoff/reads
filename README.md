@@ -148,7 +148,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
 * [Cloudflare Research](https://research.cloudflare.com/) - networking/security
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
-* [Communications of the ACM](https://cacm.acm.org/magazines/) - news/research
+* [Communications of the ACM](https://cacm.acm.org) - news/research
 * [COMPUTERS ARE BAD](https://computer.rip/) - security/history
 * [Ariadne Conill's blog](https://ariadne.space/) - systems/programming
 * [Albert Cory aka Bob Purvy's blog](https://albertcory50.substack.com/archive) - history/opinion
