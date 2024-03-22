@@ -184,6 +184,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Mallory Knodel's blog](https://internet.exchangepoint.tech/) - opinion/policy
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [lcamtuf's thing](https://lcamtuf.substack.com/archive) - analysis
+* [Dan Luu's blog](https://danluu.com) - analysis
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
 * [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
@@ -282,6 +283,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Planet Python](https://planetpython.org/) - python
 * [RCE Endeavors](https://www.codereversing.com/) - reversing
 * [Ruby Weekly](https://rubyweekly.com/issues) - Ruby
+* [Sutter's Mill](https://herbsutter.com/) - C++
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust
 * [Sebastian Witowski Blog](https://switowski.com/blog/) - Python
-* [Sutter's Mill](https://herbsutter.com/) - C++
