@@ -102,6 +102,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Wladimir Palant's blog](https://palant.info/) - web/crypto
 * [Palo Alto Networks Unit42 blog](https://unit42.paloaltonetworks.com/) - malware/analysis
 * [PortSwigger research](https://portswigger.net/research) - analysis/research
+* [Public Exposure](https://public-exposure.inform.social/) - analysis
 * [The Record](https://therecord.media/) - news
 * [Recorded Future research](https://www.recordedfuture.com/research) - analysis
 * [The Red Canary Blog](https://redcanary.com/blog/) - malware/analysis
@@ -152,6 +153,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Communications of the ACM](https://cacm.acm.org) - news/research
 * [COMPUTERS ARE BAD](https://computer.rip/) - security/history
 * [Ariadne Conill's blog](https://ariadne.space/) - systems/programming
+* [Mike Conlow's newsletter](https://mikeconlow.substack.com/) - analysis/policy
 * [Albert Cory aka Bob Purvy's blog](https://albertcory50.substack.com/archive) - history/opinion
 * [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [Daily Host News](https://www.dailyhostnews.com/) - news
