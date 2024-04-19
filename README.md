@@ -216,6 +216,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Wired](https://www.wired.com) - news
 * [Yes that Blog](https://www.yesthatblog.com/) - systems/opinion
 * [Dan York's blog](https://danyork.me/) - news/opinion
+* [Ed Zitron's blog](https://www.wheresyoured.at/) - opinion/analysis
 
 ### networking
 * [ACM SIGCOMM](http://www.sigcomm.org/) - research
