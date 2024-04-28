@@ -67,6 +67,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [cybersec](https://cybersect.substack.com/archive) - analysis/opinion
 * [CyberScoop](https://www.cyberscoop.com/) - news
 * [DataBreaches.net](https://www.databreaches.net/) - news
+* [Decipher](https://duo.com/decipher) - news
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
 * [The DFIR Report](https://thedfirreport.com/) - analysis
 * [Digital Investigations](https://digitalinvestigations.substack.com/archive) - news
