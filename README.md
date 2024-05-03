@@ -165,10 +165,11 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
 * [Engineering at Meta](https://engineering.fb.com/) - software/systems
-* [Fastly Blog](https://www.fastly.com/blog) - systems/security
 * [Julia Evans](https://jvns.ca/) - programming/systems
+* [Fastly Blog](https://www.fastly.com/blog) - systems/security
 * [The Fediverse Report](https://fediversereport.com/) - software/news
 * [First Monday](http://firstmonday.org/) - research/analysis
+* [Firstyear's blog-a-log](https://fy.blackhats.net.au/) - software/analysis
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
 * [Jeff Geerling's blog](https://www.jeffgeerling.com/blog) - software/hardware
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
