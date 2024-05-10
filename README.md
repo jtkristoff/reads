@@ -216,6 +216,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
 * [Warner's Random Hacking Blog](http://bsdimp.blogspot.com/) - systems/programming
 * [Weberblog.net](https://weberblog.net/) - networking/security
+* [Ben Werdmuller's blog](https://werd.io/) - opinion
 * [Wikimedia tech blog](https://phabricator.wikimedia.org/phame/) - systems/networking
 * [Russ White's feedly](https://feedly.com/riw777) - news
 * [Wired](https://www.wired.com) - news
