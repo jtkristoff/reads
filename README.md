@@ -199,6 +199,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Planet Grep](https://planet.grep.be/) - systems/software
 * [Pluralistic](https://pluralistic.net/) - links/news
+* [Hal Pomeranz's blog](https://righteousit.com/) - systems
 * [POTs and PANs](https://potsandpansbyccg.com/) - analysis/opinion
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
