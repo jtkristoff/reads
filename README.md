@@ -151,7 +151,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [CeroWrt blog](https://blog.cerowrt.org/post/) - networking/systems
 * [CircleID](http://www.circleid.com/) - news/opinion
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
-* [Cloudflare Research](https://research.cloudflare.com/) - networking/security
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
 * [Communications of the ACM](https://cacm.acm.org) - news/research
 * [COMPUTERS ARE BAD](https://computer.rip/) - security/history
