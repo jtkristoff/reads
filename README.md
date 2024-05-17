@@ -205,6 +205,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Hal Pomeranz's blog](https://righteousit.com/) - systems
 * [POTs and PANs](https://potsandpansbyccg.com/) - analysis/opinion
 * [Research at Google](https://research.google.com/) - research/analysis
+* [Rest of World](https://restofworld.org/) - news/analysis
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
 * [Chris Siebenmann's blog](https://utcc.utoronto.ca/~cks/space/blog/) - analysis/opinion
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
