@@ -54,6 +54,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 
 ### infosec
 * [Akamai Blog](https://www.akamai.com/blog) - analysis
+* [Amnesty International Security Lab](https://securitylab.amnesty.org/) - analysis
 * [AT&T cybersecurity blog](https://cybersecurity.att.com/blogs) - analysis
 * [AWS security blog](https://aws.amazon.com/blogs/security/) - analysis
 * [Bellingcat blog](https://www.bellingcat.com/resources/) - analysis
