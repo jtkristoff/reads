@@ -193,6 +193,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Dan Luu's blog](https://danluu.com) - analysis
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
 * [Mystery AI Hype Theatre 3000: The Newsletter](https://buttondown.email/maiht3k/archive/) - analysis/AI
+* [net.wars](https://netwars.pelicancrossing.net/) - opinion
 * [Netflix Techblog](https://netflixtechblog.com/) - software/systems
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Lukasz Olejnik's blog](https://blog.lukaszolejnik.com/) - opinion/analysis
