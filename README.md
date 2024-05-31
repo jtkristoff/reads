@@ -19,7 +19,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Chronicle of Higher Education](https://www.chronicle.com/) - news/academia
 * [The Conversation](https://theconversation.com) - news/academia
 * [The Economist](https://www.economist.com) - news/international
-* [Foregin Affairs](https://www.foreignaffairs.com) - essays/international
+* [Foreign Affairs](https://www.foreignaffairs.com) - essays/international
 * [Foreign Policy](https://foreignpolicy.com/) - essays/international
 * [The New York Times](https://www.nytimes.com) - news/US
 * [New York Magazine](https://nymag.com/) - news/US
