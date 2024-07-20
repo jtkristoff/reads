@@ -121,7 +121,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Emily M. Stark's blog](https://emilymstark.com/blog.html) - analysis
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
-* [Team Cymru Blog](https://team-cymru.com/resources/blog/) - analysis
+* [Team Cymru Blog](https://team-cymru.com/blog/) - analysis
 * [Tenable Tech Blog](https://medium.com/tenable-techblog) - analysis
 * [this week in security](https://us18.campaign-archive.com/home/?u=e1ad6038c994abec17dafb116&id=a2457dc8ad) - news
 * [tl;dr sec](https://tldrsec.com/) - news
