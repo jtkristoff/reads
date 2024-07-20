@@ -272,6 +272,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [RIPE Labs](https://labs.ripe.net/) - analysis
 * [SIDN Labs news and blog](https://www.sidnlabs.nl/en/news-and-blogs) - protocols/news
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
+* [SubTel Forum](https://issuu.com/subtelforum) - engineering/systems
 * [Daryll Swer's blog](https://www.daryllswer.com/) - routing/protocols
 * [Systems Approach Newsletter](https://systemsapproach.org/newsletter/) - protocols/analysis
 * [TeleGeogrpahy Blog](https://blog.telegeography.com/) - analysis/news
