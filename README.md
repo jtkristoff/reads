@@ -36,6 +36,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 ### hardware/software
 * [Android developers blog](https://android-developers.googleblog.com) - Android
 * [Apple security research](https://security.apple.com/blog/) - iOS/macOS
+* [The Desolation of Blog](https://lapcatsoftware.com/articles/) - Mac/macOS
 * [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
 * [Fedora Magazine](https://fedoramagazine.org/) - Fedora
 * [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/) - FreeBSD
