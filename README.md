@@ -74,7 +74,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [DataBreaches.net](https://www.databreaches.net/) - news
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
 * [The DFIR Report](https://thedfirreport.com/) - analysis
-* [Digital Investigations](https://digitalinvestigations.substack.com/archive) - news
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
 * [Electrospaces](https://www.electrospaces.net/) - analysis/crypto
@@ -91,6 +90,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [grugq's newsletter](https://buttondown.email/grugq/archive/) - news/analysis
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
+* [Indictator](https://indicator.media/) - news
 * [InfoSec Handlers Diary Blog](https://isc.sans.edu/diaryarchive.html) - analysis
 * [JISC blog](https://regulatorydevelopments.jiscinvolve.org/wp/) - analysis/opinion
 * [Jan Kopriva's blog](https://untrustednetwork.net/en/) - analysis/malware
