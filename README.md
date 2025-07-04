@@ -77,7 +77,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
 * [Electrospaces](https://www.electrospaces.net/) - analysis/crypto
-* [Errata Security](http://blog.erratasec.com/) - opinion/news
 * [ESET welivesecurity](https://www.welivesecurity.com/en/) - analysis
 * [Feisty Duck newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/) - crypto
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
