@@ -40,6 +40,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
 * [Fedora Magazine](https://fedoramagazine.org/) - Fedora
 * [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/) - FreeBSD
+* [Free Software Foundation blog](https://www.fsf.org/blogs/) - Unix
 * [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
 * [Klara Systems blog](https://klarasystems.com/articles/) - FreeBSD
 * [Last Week in AWS](https://www.lastweekinaws.com/blog/) - AWS
@@ -67,6 +68,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Cloud Security Reading List](https://cloudseclist.com/past-issues/) - news
 * [Corelight Blog](https://corelight.blog/) - analysis
 * [cryptologie](https://cryptologie.net/) - crypto
+* [CTIChef OSINT](https://ctichef.com/osint-overviews/) - news
 * [CTO at NCSC - Cyber Defence Analysis](https://ctoatncsc.substack.com/archive) - news
 * [cybersec](https://cybersect.substack.com/archive) - analysis/opinion
 * [CyberScoop](https://www.cyberscoop.com/) - news
@@ -77,6 +79,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Digital Investigations](https://digitalinvestigations.substack.com/archive) - news
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
+* [Electrospaces](https://www.electrospaces.net/) - analysis/crypto
 * [Errata Security](http://blog.erratasec.com/) - opinion/news
 * [ESET welivesecurity](https://www.welivesecurity.com/en/) - analysis
 * [Feisty Duck newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/) - crypto
@@ -92,6 +95,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
 * [InfoSec Handlers Diary Blog](https://isc.sans.edu/diaryarchive.html) - analysis
 * [JISC blog](https://regulatorydevelopments.jiscinvolve.org/wp/) - analysis/opinion
+* [Jan Kopriva's blog](https://untrustednetwork.net/en/) - analysis/malware
 * [Krebs on Security](http://krebsonsecurity.com/) - news
 * [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - analysis/research
 * [The Lucid Privacy Group blog](https://lucid-privacy-group.ghost.io/) - privacy/security
@@ -107,6 +111,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Wladimir Palant's blog](https://palant.info/) - web/crypto
 * [Palo Alto Networks Unit42 blog](https://unit42.paloaltonetworks.com/) - malware/analysis
 * [PortSwigger research](https://portswigger.net/research) - analysis/research
+* [Qurium](https://www.qurium.org/) - analsyis
 * [Public Exposure](https://public-exposure.inform.social/) - analysis
 * [The Record](https://therecord.media/) - news
 * [Recorded Future research](https://www.recordedfuture.com/research) - analysis
@@ -129,10 +134,12 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [tl;dr sec](https://tldrsec.com/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
 * [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
+* [White Hat Mac](https://whitehatmac.com/ - malware/analysis
 
 ### infotech
 * [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
+* [ACM Queue](https://queue.acm.org/) - software/analysis
 * [ACM TechNews](http://technews.acm.org/) - news
 * [Daniel Aleksandersen's blog](https://www.ctrl.blog/) - systems/programming
 * [wesley Aptekar-Cassels blog](https://blog.wesleyac.com/) - systems/programming
@@ -141,10 +148,12 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [B2fxxx](https://b2fxxx.blogspot.com/) - law
 * [John Batelle's Search Blog](http://battellemedia.com/) - news/analysis
 * [Steve Bellovin's Blog](https://www.cs.columbia.edu/~smb/blog/) - opinion
+* [Fabrizio Ferri Benedetti's blog](https://passo.uno/posts/) - software/opinion
 * [Benjojo's Blog](https://blog.benjojo.co.uk/) - networking/systems
 * [Robert Berjon's blog](https://berjon.com/) - privacy/opinion
 * [Berkman Center](https://cyber.law.harvard.edu/) - law/research
 * [bit-player](http://bit-player.org/) - mathematics
+* [Baldur Bjarnason's blog](https://www.baldurbjarnason.com/essays/) - opinion
 * [Arturo Borrero's blog](https://ral-arturo.org/) - software
 * [Matt Brown's blog](https://www.mattb.nz/w/) - software/systems
 * [Center for Democracy & Technology](https://cdt.org/) - policy/analysis
@@ -165,6 +174,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Daily Host News](https://www.dailyhostnews.com/) - news
 * [Data Center Frontier](https://datacenterfrontier.com/) -news
 * [decoded.legal blog](https://decoded.legal/blog/) - law
+* [Frank Denis' blog](https://00f.net/) - software/systems
 * [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
@@ -175,7 +185,10 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Fediverse Report](https://fediversereport.com/) - software/news
 * [First Monday](http://firstmonday.org/) - research/analysis
 * [Firstyear's blog-a-log](https://fy.blackhats.net.au/) - software/analysis
+* [Greg Foletta's blog](https://articles.foletta.org/) - protocols/software
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
+* [Matthew Garrett's blog](https://mjg59.dreamwidth.org/) - software
+* [Alex Gaynor's blog](https://alexgaynor.net/) - opinion/programming
 * [Jeff Geerling's blog](https://www.jeffgeerling.com/blog) - software/hardware
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
 * [Hacker News](https://news.ycombinator.com) - news
@@ -189,8 +202,10 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Internet Society Pulse](https://pulse.internetsociety.org/) - analysis/news
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
 * [IT Notes](https://it-notes.dragas.net/) - systems/software
+* [Waldo Jaquith's blog](https://waldo.jaquith.org/) - software/opinion
 * [Robert Kisteleki's blog](https://kistel.eu/blog/) - networking/software
 * [Mallory Knodel's blog](https://internet.exchangepoint.tech/) - opinion/policy
+* [Rachel Kroll's blog](https://rachelbythebay.com/w/) - systems/software
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [lcamtuf's thing](https://lcamtuf.substack.com/archive) - analysis
 * [Dan Luu's blog](https://danluu.com) - analysis
@@ -201,19 +216,25 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Lukasz Olejnik's blog](https://blog.lukaszolejnik.com/) - opinion/analysis
 * [O'Reilly Radar](https://www.oreilly.com/radar/) - analysis/programming
+* [Paged Out!](https://pagedout.institute/) - programming/security
 * [Swapneel Patnekar's blog](https://shreshtait.com/blog/) - analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
+* [Phoronix](https://www.phoronix.com/) - news/analysis
 * [Planet Grep](https://planet.grep.be/) - systems/software
 * [Pluralistic](https://pluralistic.net/) - links/news
+* [Tanel Poder](https://tanelpoder.com/) - software/systems
 * [Hal Pomeranz's blog](https://righteousit.com/) - systems
 * [POTs and PANs](https://potsandpansbyccg.com/) - analysis/opinion
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rest of World](https://restofworld.org/) - news/analysis
+* [Bob Rudis' daily drops](https://dailydrop.hrbrmstr.dev/) - software/news
 * [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
 * [Chris Siebenmann's blog](https://utcc.utoronto.ca/~cks/space/blog/) - analysis/opinion
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Slashdot](https://slashdot.org/) - news/opinion
+* [Graham Smith's blog](https://www.cyberleagle.com/) - law
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
+* [Nikhil Suresh's blog](https://ludic.mataroa.blog/) - opinion
 * [Techjournalist](https://techjournalism.medium.com/) - analysis
 * [Tech Policy Press](https://techpolicy.press/) - analysis/opinion
 * [Technology and Marketing Law blog](https://blog.ericgoldman.org/) - law/analysis
@@ -225,6 +246,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Ben Werdmuller's blog](https://werd.io/) - opinion
 * [Wikimedia tech blog](https://phabricator.wikimedia.org/phame/) - systems/networking
 * [Russ White's feedly](https://feedly.com/riw777) - news
+* [Willem L Middlekoop's blog](https://willem.com/blog/) - software/opinion
 * [Wired](https://www.wired.com) - news
 * [Yes that Blog](https://www.yesthatblog.com/) - systems/opinion
 * [Dan York's blog](https://danyork.me/) - news/opinion
@@ -236,6 +258,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [APNIC Blog](https://blog.apnic.net/) - analysis
 * [Anurag Bhatia's blog](https://anuragbhatia.com/) - analysis/routing
 * [ARPA Playbook newsletter](https://www.freaktakes.com/s/arpa-playbook) - history
+* [Roderick Beck's blog](https://subseacables.blogspot.com/) - systems/analysis
 * [Stephane Bortzmeyer's blog](https://www.bortzmeyer.org) - protocols
 * [CableLabs blog](https://www.cablelabs.com/blog) - protocols/engineering
 * [CAIDA](https://www.caida.org/) - research/analysis
@@ -243,8 +266,12 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Jim Cowie's blog](https://content.cooperate.com/post/) - analysis
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
+* [Domain Cite](https://domainincite.com/) - DNS/news
+* [Domain Name Industry Brief](https://www.dnib.com/) - DNS/analysis
+* [Domain Name Wire](https://domainnamewire.com/) - DNS/news
 * [The Forwarding Plane](https://forwardingplane.net/) - engineering/protocols
 * [Christian Huitema's blog](https://www.privateoctopus.com/blog.html) - protocols
+* [ICANN announcements](https://www.icann.org/en/announcements) - news
 * [ICANN blog](https://www.icann.org/news/blog) - news
 * [ICANN OCTO publications](https://www.icann.org/octo/publications) - analysis
 * [ICSI](http://icir.org/) - networking/security
@@ -259,9 +286,10 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
 * [Irresponsible Disclosure](https://blog.daknob.net/) - protocols/security
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
-* [Justin Wilson's blog](https://blog.j2sw.com/) - routing
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
 * [Marikku Leinio's blog](https://majornetwork.net/) - protocols
+* [John Levine's blog](https://jl.ly/) - opinion/analysis
+* [Jens Link's blog](https://techlog.jenslink.net/) - protocols
 * [Jan-Piet Mens archives](https://jpmens.net/archive/) - DNS/systems
 * [Monash IP Observator](https://medium.com/insights-monash-university-ip-observatory) - analysis
 * [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
@@ -271,7 +299,9 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Packet Pushers blog](https://packetpushers.net/blogs/) - protocols
 * [Julio Perez's Blog](https://juliopdx.com/posts/) - routing/protocols
 * [Fabrizzio Petrucci's blog](https://compumundohipermegared.one/) - routing/protocols
+* [Ookla research reports](https://www.ookla.com/research/reports) - analysis
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
+* [reddit NOG](https://www.reddit.com/r/NOG/) - news
 * [RIPE Labs](https://labs.ripe.net/) - analysis
 * [SIDN Labs news and blog](https://www.sidnlabs.nl/en/news-and-blogs) - protocols/news
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
@@ -282,12 +312,14 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ThousandEyes Blog](https://www.thousandeyes.com/blog/) - analysis
 * [USENIX](https://www.usenix.org/) - research/analysis
 * [Rudolf Van Der Berg's blog](https://rudolfvanderberg.medium.com) - analysis/policy
+* [Justin Wilson's blog](https://blog.j2sw.com/) - routing
 * [Mingwei Zhang's articles](https://rfc.hashnode.dev/) - routing/protocols
 
 ### programming
 * [Amos' writings](https://fasterthanli.me/) - Rust
 * [&lt;antirez&gt;](http://antirez.com) - redis
 * [blogs.perl.org](http://blogs.perl.org/) - Perl
+* [Confessions of a Code Addict](https://blog.codingconfessions.com/) - Python/software development
 * [Bramus Van Damme's blog](https://www.bram.us/) - web development
 * [The Go BLog](https://blog.golang.org/) - Go
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
