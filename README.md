@@ -232,7 +232,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Techjournalist](https://techjournalism.medium.com/) - analysis
 * [Tech Policy Press](https://techpolicy.press/) - analysis/opinion
 * [Technology and Marketing Law blog](https://blog.ericgoldman.org/) - law/analysis
-* [Telecom Expert](https://medium.com/telecom-expert) - analysis
 * [Telia Carrier Blog](https://blog.teliacarrier.com/) - networking
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
 * [Warner's Random Hacking Blog](http://bsdimp.blogspot.com/) - systems/programming
