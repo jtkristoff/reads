@@ -302,7 +302,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [TeleGeogrpahy Blog](https://blog.telegeography.com/) - analysis/news
 * [ThousandEyes Blog](https://www.thousandeyes.com/blog/) - analysis
 * [USENIX](https://www.usenix.org/) - research/analysis
-* [Rudolf Van Der Berg's blog](https://rudolfvanderberg.medium.com) - analysis/policy
 * [Justin Wilson's blog](https://blog.j2sw.com/) - routing
 * [Mingwei Zhang's articles](https://rfc.hashnode.dev/) - routing/protocols
 
