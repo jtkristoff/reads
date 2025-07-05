@@ -283,7 +283,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [John Levine's blog](https://jl.ly/) - opinion/analysis
 * [Jens Link's blog](https://techlog.jenslink.net/) - protocols
 * [Jan-Piet Mens archives](https://jpmens.net/archive/) - DNS/systems
-* [Monash IP Observator](https://medium.com/insights-monash-university-ip-observatory) - analysis
 * [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [NLnet Labs Blog](https://blog.nlnetlabs.nl/) - protocols/software
