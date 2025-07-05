@@ -116,7 +116,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Risky Business News](https://news.risky.biz/) - news
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
-* [Security Trails Blog](https://securitytrails.com/blog) - analysis
 * [Shadowserver news/insight](https://www.shadowserver.org/news-insights/) - analysis/malware
 * [Shostack + Associates blog](https://shostack.org/blog) - analysis
 * [Soatok's blog](https://soatok.blog/b/) - crypto
@@ -130,7 +129,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [tl;dr sec](https://tldrsec.com/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
 * [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
-* [White Hat Mac](https://whitehatmac.com/ - malware/analysis
+* [White Hat Mac](https://whitehatmac.com/) - malware/analysis
 
 ### infotech
 * [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
