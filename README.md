@@ -21,6 +21,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Economist](https://www.economist.com) - news/international
 * [Foreign Affairs](https://www.foreignaffairs.com) - essays/international
 * [Foreign Policy](https://foreignpolicy.com/) - essays/international
+* [MetaFilter](https://www.metafilter.com/) - links/news
 * [The New York Times](https://www.nytimes.com) - news/US
 * [New York Magazine](https://nymag.com/) - news/US
 * [ProPublica](https://www.propublica.org/) - news
