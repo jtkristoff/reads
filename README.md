@@ -93,6 +93,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
 * [Indictator](https://indicator.media/) - news
 * [InfoSec Handlers Diary Blog](https://isc.sans.edu/diaryarchive.html) - analysis
+* [Interisle Insights](https://interisle.substack.com/archive) - analysis
 * [Jan Kopriva's blog](https://untrustednetwork.net/en/) - analysis/malware
 * [Krebs on Security](http://krebsonsecurity.com/) - news
 * [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - analysis/research
