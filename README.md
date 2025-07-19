@@ -169,7 +169,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Frank Denis' blog](https://00f.net/) - software/systems
 * [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
-* [EDUCAUSE Blogs](https://er.educause.edu/blogs/) - news
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
 * [Engineering at Meta](https://engineering.fb.com/) - software/systems
 * [Julia Evans](https://jvns.ca/) - programming/systems
