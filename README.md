@@ -154,7 +154,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Center for Internet Security and Society blog](https://cyberlaw.stanford.edu/blog) - law
 * [Center for Security and Emerging Technology](https://cset.georgetown.edu/publications) - policy/analysis
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
-* [CeroWrt blog](https://blog.cerowrt.org/post/) - networking/systems
 * [CircleID](http://www.circleid.com/) - news/opinion
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
 * [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
