@@ -134,7 +134,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [White Hat Mac](https://whitehatmac.com/) - malware/analysis
 
 ### infotech
-* [41J Blog](https://41j.com/blog/) - hardware/bioinformatics
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM Queue](https://queue.acm.org/) - software/analysis
 * [ACM TechNews](http://technews.acm.org/) - news
