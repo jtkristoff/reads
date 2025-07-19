@@ -270,7 +270,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [IPng Networks articles](https://ipng.ch/s/articles/) - protocols/systems
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
-* [Irresponsible Disclosure](https://blog.daknob.net/) - protocols/security
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
 * [Marikku Leinio's blog](https://majornetwork.net/) - protocols
