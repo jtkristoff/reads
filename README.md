@@ -308,7 +308,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
 * [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
 * [Mouse vs. Python](https://www.blog.pythonlibrary.org/) - Python
-* [Network to Code blog](https://blog.networktocode.com/) - automation
 * [The New Stack](https://thenewstack.io/) - software development
 * [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Windows
 * [Perl Weekly](http://perlweekly.com/) - Perl
