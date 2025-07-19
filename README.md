@@ -312,7 +312,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Windows
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
-* [RCE Endeavors](https://www.codereversing.com/) - reversing
 * [Ruby Weekly](https://rubyweekly.com/issues) - Ruby
 * [Sutter's Mill](https://herbsutter.com/) - C++
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust
