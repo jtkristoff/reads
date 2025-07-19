@@ -232,7 +232,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Weberblog.net](https://weberblog.net/) - networking/security
 * [Ben Werdmuller's blog](https://werd.io/) - opinion
 * [Wikimedia tech blog](https://phabricator.wikimedia.org/phame/) - systems/networking
-* [Russ White's feedly](https://feedly.com/riw777) - news
 * [Willem L Middlekoop's blog](https://willem.com/blog/) - software/opinion
 * [Wired](https://www.wired.com) - news
 * [Yes that Blog](https://www.yesthatblog.com/) - systems/opinion
