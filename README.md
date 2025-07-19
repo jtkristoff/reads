@@ -162,7 +162,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Ariadne Conill's blog](https://ariadne.space/) - systems/programming
 * [Mike Conlow's newsletter](https://mikeconlow.substack.com/) - analysis/policy
 * [Albert Cory aka Bob Purvy's blog](https://albertcory50.substack.com/archive) - history/opinion
-* [CTRL Forward](https://www.wilsoncenter.org/blogs/ctrl-forward) - policy/analysis
 * [Cybereagle](https://www.cyberleagle.com/) - law
 * [Daily Host News](https://www.dailyhostnews.com/) - news
 * [Data Center Frontier](https://datacenterfrontier.com/) -news
