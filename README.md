@@ -219,7 +219,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rest of World](https://restofworld.org/) - news/analysis
 * [Bob Rudis' daily drops](https://dailydrop.hrbrmstr.dev/) - software/news
-* [Rob Seastrom's Technotes](https://technotes.seastrom.com/) - security/systems
 * [Chris Siebenmann's blog](https://utcc.utoronto.ca/~cks/space/blog/) - analysis/opinion
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Slashdot](https://slashdot.org/) - news/opinion
