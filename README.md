@@ -53,6 +53,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [OSnews](https://www.osnews.com/) - Unix/Windows
 * [Planet Debian](https://planet.debian.org/) - Debian
 * [Daniel Stenberg's blog](https://daniel.haxx.se/blog/) - curl
+* [That Grumpy BSD Guy](https://bsdly.blogspot.com/) - Unix
 * [Tor Blog](https://blog.torproject.org/) - Tor
 
 ### infosec
@@ -271,6 +272,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [IPng Networks articles](https://ipng.ch/s/articles/) - protocols/systems
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
+* [ISPreview](https://www.ispreview.co.uk/) - news
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
 * [Marikku Leinio's blog](https://majornetwork.net/) - protocols
