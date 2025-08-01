@@ -160,7 +160,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Communications of the ACM](https://cacm.acm.org) - news/research
 * [COMPUTERS ARE BAD](https://computer.rip/) - security/history
 * [Ariadne Conill's blog](https://ariadne.space/) - systems/programming
-* [Mike Conlow's newsletter](https://mikeconlow.substack.com/) - analysis/policy
 * [Albert Cory aka Bob Purvy's blog](https://albertcory50.substack.com/archive) - history/opinion
 * [Cybereagle](https://www.cyberleagle.com/) - law
 * [Daily Host News](https://www.dailyhostnews.com/) - news
