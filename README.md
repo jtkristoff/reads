@@ -230,6 +230,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Tech Policy Press](https://techpolicy.press/) - analysis/opinion
 * [Technology and Marketing Law blog](https://blog.ericgoldman.org/) - law/analysis
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
+* [Vermaden](https://vermaden.wordpress.com/posts/) - unix/systems
 * [Weberblog.net](https://weberblog.net/) - networking/security
 * [Ben Werdmuller's blog](https://werd.io/) - opinion
 * [Wikimedia tech blog](https://phabricator.wikimedia.org/phame/) - systems/networking
