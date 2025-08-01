@@ -111,6 +111,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
 * [Wladimir Palant's blog](https://palant.info/) - web/crypto
 * [Palo Alto Networks Unit42 blog](https://unit42.paloaltonetworks.com/) - malware/analysis
+* [Phrack](https://phrack.org/) - research/analysis
 * [PortSwigger research](https://portswigger.net/research) - analysis/research
 * [Qurium](https://www.qurium.org/) - analsyis
 * [Public Exposure](https://public-exposure.inform.social/) - analysis
