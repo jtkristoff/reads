@@ -170,6 +170,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [decoded.legal blog](https://decoded.legal/blog/) - law
 * [Frank Denis' blog](https://00f.net/) - software/systems
 * [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
+* [Digital Medusa](https://digitalmedusa.org/blog-and-media/) - analysis/policy
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
 * [Engineering at Meta](https://engineering.fb.com/) - software/systems
