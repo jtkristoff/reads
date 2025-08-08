@@ -211,6 +211,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netcraft News](https://news.netcraft.com/) - analysis
 * [Lukasz Olejnik's blog](https://blog.lukaszolejnik.com/) - opinion/analysis
 * [O'Reilly Radar](https://www.oreilly.com/radar/) - analysis/programming
+* [Oracle blogs](https://blogs.oracle.com/) - software/systems
 * [Paged Out!](https://pagedout.institute/) - programming/security
 * [Swapneel Patnekar's blog](https://shreshtait.com/blog/) - analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
