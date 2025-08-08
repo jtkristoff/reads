@@ -202,6 +202,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Rachel Kroll's blog](https://rachelbythebay.com/w/) - systems/software
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [lcamtuf's thing](https://lcamtuf.substack.com/archive) - analysis
+* [Lobsters](https://lobste.rs/) - news
 * [Dan Luu's blog](https://danluu.com) - analysis
 * [MTU Ninja](https://vincent.bernat.ch/en/blog) - systems
 * [Mystery AI Hype Theatre 3000: The Newsletter](https://buttondown.email/maiht3k/archive/) - analysis/AI
