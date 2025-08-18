@@ -282,6 +282,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ISPreview](https://www.ispreview.co.uk/) - news
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
+* [LACNIC blog](https://blog.lacnic.net/en/) - news/analysis
 * [Marikku Leinio's blog](https://majornetwork.net/) - protocols
 * [John Levine's blog](https://jl.ly/) - opinion/analysis
 * [Jens Link's blog](https://techlog.jenslink.net/) - protocols
