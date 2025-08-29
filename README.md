@@ -22,8 +22,9 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Foreign Affairs](https://www.foreignaffairs.com) - essays/international
 * [Foreign Policy](https://foreignpolicy.com/) - essays/international
 * [MetaFilter](https://www.metafilter.com/) - links/news
-* [The New York Times](https://www.nytimes.com) - news/US
+* [News Now](https://www.newsnow.com/us/) - links
 * [New York Magazine](https://nymag.com/) - news/US
+* [The New York Times](https://www.nytimes.com) - news/US
 * [ProPublica](https://www.propublica.org/) - news
 * [Reuters](https://www.reuters.com/) - news
 * [Semafor](https://www.semafor.com/) - news
