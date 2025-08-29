@@ -109,6 +109,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Netresec blog](https://www.netresec.com/?page=Blog) - analysis
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
 * [NIST CSRC publications](https://csrc.nist.gov/Publications) - security/analysis
+* [Open Source Security](https://opensourcesecurity.io/) - analysis
 * [Orange Cyber Defense Blog](https://orangecyberdefense.com/global/blog/) - analysis
 * [Wladimir Palant's blog](https://palant.info/) - web/crypto
 * [Palo Alto Networks Unit42 blog](https://unit42.paloaltonetworks.com/) - malware/analysis
