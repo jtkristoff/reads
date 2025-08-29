@@ -131,7 +131,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Emily M. Stark's blog](https://emilymstark.com/blog.html) - analysis
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
 * [Team Cymru Blog](https://team-cymru.com/blog/) - analysis
-* [this week in security](https://us18.campaign-archive.com/home/?u=e1ad6038c994abec17dafb116&id=a2457dc8ad) - news
+* [this week in security](https://this.weekinsecurity.com/) - news
 * [tl;dr sec](https://tldrsec.com/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
 * [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
