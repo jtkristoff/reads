@@ -163,7 +163,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
 * [CircleID](http://www.circleid.com/) - news/opinion
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
-* [codingpackets.com Blog](https://codingpackets.com/blog/recent/) - systems
 * [Communications of the ACM](https://cacm.acm.org) - news/research
 * [COMPUTERS ARE BAD](https://computer.rip/) - security/history
 * [Ariadne Conill's blog](https://ariadne.space/) - systems/programming
