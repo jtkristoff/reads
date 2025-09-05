@@ -293,11 +293,11 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Network Fun Times](https://www.networkfuntimes.com/) - routing/protocols
 * [NLnet Labs Blog](https://blog.nlnetlabs.nl/) - protocols/software
 * [Mark Nottingham's blog](https://www.mnot.net/blog/) - policy/protocols
+* [Ookla research reports](https://www.ookla.com/research/reports) - analysis
 * [OONI blog](https://ooni.org/blog/) - analysis
 * [Packet Pushers blog](https://packetpushers.net/blogs/) - protocols
 * [Julio Perez's Blog](https://juliopdx.com/posts/) - routing/protocols
 * [Fabrizzio Petrucci's blog](https://compumundohipermegared.one/) - routing/protocols
-* [Ookla research reports](https://www.ookla.com/research/reports) - analysis
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [reddit NOG](https://www.reddit.com/r/NOG/) - news
 * [RIPE Labs](https://labs.ripe.net/) - analysis
