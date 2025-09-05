@@ -232,7 +232,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Chris Siebenmann's blog](https://utcc.utoronto.ca/~cks/space/blog/) - analysis/opinion
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
 * [Slashdot](https://slashdot.org/) - news/opinion
-* [Graham Smith's blog](https://www.cyberleagle.com/) - law
 * [Michael Stapelberg's blog](https://michael.stapelberg.ch/posts/) - systems
 * [Nikhil Suresh's blog](https://ludic.mataroa.blog/) - opinion
 * [Techjournalist](https://techjournalism.medium.com/) - analysis
