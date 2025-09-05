@@ -245,7 +245,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Willem L Middlekoop's blog](https://willem.com/blog/) - software/opinion
 * [Wired](https://www.wired.com) - news
 * [Yes that Blog](https://www.yesthatblog.com/) - systems/opinion
-* [Dan York's blog](https://danyork.me/) - news/opinion
 * [Ed Zitron's blog](https://www.wheresyoured.at/) - opinion/analysis
 
 ### networking
