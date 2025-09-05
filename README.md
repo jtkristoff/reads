@@ -299,7 +299,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Julio Perez's Blog](https://juliopdx.com/posts/) - routing/protocols
 * [Fabrizzio Petrucci's blog](https://compumundohipermegared.one/) - routing/protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
-* [reddit NOG](https://www.reddit.com/r/NOG/) - news
 * [RIPE Labs](https://labs.ripe.net/) - analysis
 * [SIDN Labs news and blog](https://www.sidnlabs.nl/en/news-and-blogs) - protocols/news
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
