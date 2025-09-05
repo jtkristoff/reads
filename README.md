@@ -225,6 +225,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Tanel Poder](https://tanelpoder.com/) - software/systems
 * [Hal Pomeranz's blog](https://righteousit.com/) - systems
 * [POTs and PANs](https://potsandpansbyccg.com/) - analysis/opinion
+* [Larry Press' blog](https://cis471.blogspot.com/) - analysis/opinion
 * [Public Internet Technology Group blog](https://pitg.gitlab.io/news/) - policy/analysis
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rest of World](https://restofworld.org/) - news/analysis
