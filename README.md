@@ -24,6 +24,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [MetaFilter](https://www.metafilter.com/) - links/news
 * [News Now](https://www.newsnow.com/us/) - links
 * [New York Magazine](https://nymag.com/) - news/US
+* [The New Yorker](https://www.newyorker.com/) - essays/US
 * [The New York Times](https://www.nytimes.com) - news/US
 * [ProPublica](https://www.propublica.org/) - news
 * [Reuters](https://www.reuters.com/) - news
