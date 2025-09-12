@@ -108,6 +108,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [MANRS blog](https://www.manrs.org/blog/) - routing
 * [Microsoft Malware Protection Center](https://blogs.technet.microsoft.com/mmpc/) - malware/analysis
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
+* [Alec Muffett's blog](https://alecmuffett.com/blog) - analysis/crypto
 * [NCC Group Research](https://www.nccgroup.com/us/research-blog/) - analysis/research
 * [Netresec blog](https://www.netresec.com/?page=Blog) - analysis
 * [NETSCOUT's ASERT Blog](https://www.netscout.com/asert) - analysis
