@@ -11,7 +11,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [programming](#programming)
 
 ### business
-* [Fabricated Knowledge](https://www.fabricatedknowledge.com/archive) - stocks
 * [Harvard Business Review](https://hbr.org/) - analysis/research
 * [The Wall Street Journal](https://www.wsj.com) - markets/news
 
