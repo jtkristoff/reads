@@ -15,21 +15,23 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Wall Street Journal](https://www.wsj.com) - markets/news
 
 ### general news
+* [AllSides](https://www.allsides.com/unbiased-balanced-news) - links
+* [The Associated Press](https://apnews.com/) - global
 * [The Atlantic](https://www.theatlantic.com) - essays/US
-* [The Chronicle of Higher Education](https://www.chronicle.com/) - news/academia
-* [The Conversation](https://theconversation.com) - news/academia
-* [The Economist](https://www.economist.com) - news/international
+* [The Chronicle of Higher Education](https://www.chronicle.com/) - academia
+* [The Conversation](https://theconversation.com) - academia
+* [The Economist](https://www.economist.com) - international
 * [Foreign Affairs](https://www.foreignaffairs.com) - essays/international
 * [Foreign Policy](https://foreignpolicy.com/) - essays/international
-* [MetaFilter](https://www.metafilter.com/) - links/news
+* [MetaFilter](https://www.metafilter.com/) - links
 * [News Now](https://www.newsnow.com/us/) - links
-* [New York Magazine](https://nymag.com/) - news/US
+* [New York Magazine](https://nymag.com/) - US
 * [The New Yorker](https://www.newyorker.com/) - essays/US
-* [The New York Times](https://www.nytimes.com) - news/US
-* [ProPublica](https://www.propublica.org/) - news
-* [Reuters](https://www.reuters.com/) - news
-* [Semafor](https://www.semafor.com/) - news
-* [The Washington Post](https://www.washingtonpost.com) - news/US
+* [The New York Times](https://www.nytimes.com) - US
+* [ProPublica](https://www.propublica.org/) - investigations
+* [Reuters](https://www.reuters.com/) - global
+* [Semafor](https://www.semafor.com/) - global
+* [The Washington Post](https://www.washingtonpost.com) - US
 
 ### general science
 * [American Scientist](https://www.americanscientist.org) - news/research
