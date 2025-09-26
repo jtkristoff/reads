@@ -62,7 +62,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Tor Blog](https://blog.torproject.org/) - Tor
 
 ### infosec
-* [Accenture cybersecurity](https://www.accenture.com/us-en/services/cybersecurity) - analysis/research
 * [Akamai Blog](https://www.akamai.com/blog) - analysis
 * [Amnesty International Security Lab](https://securitylab.amnesty.org/) - analysis
 * [AT&T cybersecurity blog](https://cybersecurity.att.com/blogs) - analysis
