@@ -18,6 +18,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [AllSides](https://www.allsides.com/unbiased-balanced-news) - links
 * [The Associated Press](https://apnews.com/) - global
 * [The Atlantic](https://www.theatlantic.com) - essays/US
+* [Boston Review](https://www.bostonreview.net) - essays
 * [The Chronicle of Higher Education](https://www.chronicle.com/) - academia
 * [The Conversation](https://theconversation.com) - academia
 * [The Economist](https://www.economist.com) - international
