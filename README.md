@@ -20,7 +20,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Atlantic](https://www.theatlantic.com) - essays/US
 * [Boston Review](https://www.bostonreview.net) - essays
 * [The Chronicle of Higher Education](https://www.chronicle.com/) - academia
-* [The Conversation](https://theconversation.com) - academia
 * [The Economist](https://www.economist.com) - international
 * [Foreign Affairs](https://www.foreignaffairs.com) - essays/international
 * [Foreign Policy](https://foreignpolicy.com/) - essays/international
