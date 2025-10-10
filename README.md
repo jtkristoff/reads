@@ -250,6 +250,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 
 ### networking
 * [ACM SIGCOMM](http://www.sigcomm.org/) - research
+* [Afnic resources](https://www.afnic.fr/en/observatory-and-resources/) - analysis
 * [Andree's Musings](https://toonk.io/index.html) - engineering/analysis
 * [APNIC Blog](https://blog.apnic.net/) - analysis
 * [Anurag Bhatia's blog](https://anuragbhatia.com/) - analysis/routing
