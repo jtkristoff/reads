@@ -47,7 +47,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Fedora Magazine](https://fedoramagazine.org/) - Fedora
 * [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/) - FreeBSD
 * [Free Software Foundation blog](https://www.fsf.org/blogs/) - Unix
-* [InfluxData Blog](https://www.influxdata.com/blog/) - InfluxDB
 * [Klara Systems blog](https://klarasystems.com/articles/) - FreeBSD
 * [Last Week in AWS](https://www.lastweekinaws.com/blog/) - AWS
 * [LWN](https://lwn.net/) - Linux
