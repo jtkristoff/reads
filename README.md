@@ -257,6 +257,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ARPA Playbook newsletter](https://www.freaktakes.com/s/arpa-playbook) - history
 * [Roderick Beck's blog](https://subseacables.blogspot.com/) - systems/analysis
 * [Stephane Bortzmeyer's blog](https://www.bortzmeyer.org) - protocols
+* [Lukasz Bromirski''s blog](https://lukasz.bromirski.net/post/) - protocols/routing
 * [CableLabs blog](https://www.cablelabs.com/blog) - protocols/engineering
 * [CAIDA](https://www.caida.org/) - research/analysis
 * [CENIC blog](https://cenic.org/blog) - engineering/research
