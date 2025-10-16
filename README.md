@@ -118,7 +118,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Palo Alto Networks Unit42 blog](https://unit42.paloaltonetworks.com/) - malware/analysis
 * [Phrack](https://phrack.org/) - research/analysis
 * [PortSwigger research](https://portswigger.net/research) - analysis/research
-* [Public Exposure](https://public-exposure.inform.social/) - analysis
 * [Qurium](https://www.qurium.org/) - analsyis
 * [The Record](https://therecord.media/) - news
 * [Recorded Future research](https://www.recordedfuture.com/research) - analysis
