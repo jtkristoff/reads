@@ -163,6 +163,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Center for Security and Emerging Technology](https://cset.georgetown.edu/publications) - policy/analysis
 * [CERIAS Blog](https://www.cerias.purdue.edu/site/blog) - news/opinion
 * [CircleID](http://www.circleid.com/) - news/opinion
+* [Citation Needed](https://www.citationneeded.news/) - cryptocurrency/analysis
 * [Cloudflare Blog](https://blog.cloudflare.com/) - systems/security
 * [Communications of the ACM](https://cacm.acm.org) - news/research
 * [COMPUTERS ARE BAD](https://computer.rip/) - security/history
