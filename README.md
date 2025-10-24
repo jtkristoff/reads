@@ -222,6 +222,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Phoronix](https://www.phoronix.com/) - news/analysis
 * [Planet Grep](https://planet.grep.be/) - systems/software
+* [Planetscale blog](https://planetscale.com/blog) - database/analysis
 * [Pluralistic](https://pluralistic.net/) - links/news
 * [Tanel Poder](https://tanelpoder.com/) - software/systems
 * [Hal Pomeranz's blog](https://righteousit.com/) - systems
