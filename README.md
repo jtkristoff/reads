@@ -140,7 +140,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [TorrentFreak](https://torrentfreak.com/) - privacy
 * [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
 * [Filippo Valsorda's blog](https://words.filippo.io/) - crypto/analysis
-* [White Hat Mac](https://whitehatmac.com/) - malware/analysis
 
 ### infotech
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
