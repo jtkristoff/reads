@@ -177,6 +177,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Frank Denis' blog](https://00f.net/) - software/systems
 * [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
 * [Digital Medusa](https://digitalmedusa.org/blog-and-media/) - analysis/policy
+* [EC digital future library](https://digital-strategy.ec.europa.eu/en/library) - analysis
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
 * [Engineering at Meta](https://engineering.fb.com/) - software/systems
