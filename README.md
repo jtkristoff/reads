@@ -198,6 +198,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Bert Hubert's articles](https://berthub.eu/articles/) - science/opinion
 * [IEEE Annals of the History of Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=85) - analysis
 * [IEEE Spectrum](https://spectrum.ieee.org/) - news
+* [The Information](https://www.theinformation.com/) - news
 * [Institute for AI Policy and Strategy](https://www.iaps.ai/ourresearch) - analysis/AI
 * [Interesting-People](https://ip.topicbox.com/groups/ip) - news
 * [Internet Society Blog](https://www.internetsociety.org/blog/) - news
