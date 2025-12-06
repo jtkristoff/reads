@@ -143,7 +143,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Filippo Valsorda's blog](https://words.filippo.io/) - crypto/analysis
 
 ### infotech
-* [0xkato's blog] - linux/systems
+* [0xkato's blog](https://www.0xkato.xyz/blog) - linux/systems
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM Queue](https://queue.acm.org/) - software/analysis
 * [ACM TechNews](http://technews.acm.org/) - news
