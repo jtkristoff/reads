@@ -207,7 +207,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
 * [IT Notes](https://it-notes.dragas.net/) - systems/software
 * [Waldo Jaquith's blog](https://waldo.jaquith.org/) - software/opinion
-* [Robert Kisteleki's blog](https://kistel.eu/blog/) - networking/software
 * [Mallory Knodel's blog](https://internet.exchangepoint.tech/) - opinion/policy
 * [Rachel Kroll's blog](https://rachelbythebay.com/w/) - systems/software
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
