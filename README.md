@@ -260,7 +260,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Afnic resources](https://www.afnic.fr/en/observatory-and-resources/) - analysis
 * [APNIC Blog](https://blog.apnic.net/) - analysis
 * [Anurag Bhatia's blog](https://anuragbhatia.com/) - analysis/routing
-* [ARPA Playbook newsletter](https://www.freaktakes.com/s/arpa-playbook) - history
 * [Roderick Beck's blog](https://subseacables.blogspot.com/) - systems/analysis
 * [Stephane Bortzmeyer's blog](https://www.bortzmeyer.org) - protocols
 * [Lukasz Bromirski''s blog](https://lukasz.bromirski.net/post/) - protocols/routing
