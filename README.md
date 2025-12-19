@@ -170,6 +170,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Communications of the ACM](https://cacm.acm.org) - news/research
 * [COMPUTERS ARE BAD](https://computer.rip/) - security/history
 * [Ariadne Conill's blog](https://ariadne.space/) - systems/programming
+* [Connected Places](https://connectedplaces.online/) - software/news
 * [Albert Cory aka Bob Purvy's blog](https://albertcory50.substack.com/archive) - history/opinion
 * [Cybereagle](https://www.cyberleagle.com/) - law
 * [Daily Host News](https://www.dailyhostnews.com/) - news
@@ -184,7 +185,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Engineering at Meta](https://engineering.fb.com/) - software/systems
 * [Julia Evans](https://jvns.ca/) - programming/systems
 * [Fastly Blog](https://www.fastly.com/blog) - systems/security
-* [The Fediverse Report](https://fediversereport.com/) - software/news
 * [First Monday](http://firstmonday.org/) - research/analysis
 * [Firstyear's blog-a-log](https://fy.blackhats.net.au/) - software/analysis
 * [Greg Foletta's blog](https://articles.foletta.org/) - protocols/software
