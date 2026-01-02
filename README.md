@@ -195,6 +195,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
 * [Hacker News](https://news.ycombinator.com) - news
 * [Hacking, but Legal](https://www.hackingbutlegal.com/) - analysis/opinion
+* [HAProxy blog](https://www.haproxy.com/blog) - software/analysis
 * [HealthChecks.io blog](https://blog.healthchecks.io) - analysis
 * [Bert Hubert's articles](https://berthub.eu/articles/) - science/opinion
 * [IEEE Annals of the History of Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=85) - analysis
