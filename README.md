@@ -92,7 +92,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Google Security blog](https://security.googleblog.com/) - analysis/news
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
 * [Greynoise blog](https://www.greynoise.io/blog) analysis/malware
-* [grugq's newsletter](https://buttondown.email/grugq/archive/) - news/analysis
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
 * [Indictator](https://indicator.media/) - news
