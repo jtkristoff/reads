@@ -318,7 +318,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ThousandEyes Blog](https://www.thousandeyes.com/blog/) - analysis
 * [USENIX](https://www.usenix.org/) - research/analysis
 * [Justin Wilson's blog](https://blog.j2sw.com/) - routing
-* [Mingwei Zhang's articles](https://rfc.hashnode.dev/) - routing/protocols
 
 ### programming
 * [Amos' writings](https://fasterthanli.me/) - Rust
