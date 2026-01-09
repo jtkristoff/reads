@@ -186,7 +186,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Firstyear's blog-a-log](https://fy.blackhats.net.au/) - software/analysis
 * [Greg Foletta's blog](https://articles.foletta.org/) - protocols/software
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
-* [Matthew Garrett's blog](https://mjg59.dreamwidth.org/) - software
+* [Matthew Garrett's blog](https://codon.org.uk/~mjg59/blog/) - software
 * [Alex Gaynor's blog](https://alexgaynor.net/) - opinion/programming
 * [Jeff Geerling's blog](https://www.jeffgeerling.com/blog) - software/hardware
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
