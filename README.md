@@ -272,8 +272,10 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Domain Cite](https://domainincite.com/) - DNS/news
 * [Domain Name Industry Brief](https://www.dnib.com/) - DNS/analysis
 * [Domain Name Wire](https://domainnamewire.com/) - DNS/news
+* [FilterWatch](https://filter.watch/english/) - news/analysis
 * [The Forwarding Plane](https://forwardingplane.net/) - engineering/protocols
 * [Christian Huitema's blog](https://www.privateoctopus.com/blog.html) - protocols
+* [ICA UDRP Digest](https://www.internetcommerce.org/udrp-case-summaries/) - policy/news
 * [ICANN announcements](https://www.icann.org/en/announcements) - news
 * [ICANN blog](https://www.icann.org/news/blog) - news
 * [ICANN OCTO publications](https://www.icann.org/octo/publications) - analysis
