@@ -278,7 +278,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ICANN announcements](https://www.icann.org/en/announcements) - news
 * [ICANN blog](https://www.icann.org/news/blog) - news
 * [ICANN OCTO publications](https://www.icann.org/octo/publications) - analysis
-* [ICSI](http://icir.org/) - networking/security
 * [IEEE Communications Surveys & Tutorials](https://www.comsoc.org/publications/journals/ieee-comst)
 * [IEEE Transactions on network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm)
 * [IETF News and Blog](https://www.ietf.org/blog/) - protocols/news
