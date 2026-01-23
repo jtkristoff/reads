@@ -224,6 +224,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Swapneel Patnekar's blog](https://shreshtait.com/blog/) - analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Phoronix](https://www.phoronix.com/) - news/analysis
+* [Pivot to AI](https://pivot-to-ai.com/) - news/analysis
 * [Planet Grep](https://planet.grep.be/) - systems/software
 * [Planetscale blog](https://planetscale.com/blog) - database/analysis
 * [Pluralistic](https://pluralistic.net/) - links/news
