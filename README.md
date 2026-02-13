@@ -137,7 +137,8 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [this week in security](https://this.weekinsecurity.com/) - news
 * [tl;dr sec](https://tldrsec.com/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
-* [Trend Micro Research](https://www.trendmicro.com/en_us/research.html)
+* [Trend Micro Research](https://www.trendmicro.com/en_us/research.html) - analysis
+* [Unit 221B blog](https://blog.unit221b.com/dont-read-this-blog) - analysis
 * [Filippo Valsorda's blog](https://words.filippo.io/) - crypto/analysis
 
 ### infotech
