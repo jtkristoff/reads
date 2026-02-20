@@ -43,6 +43,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Apple security research](https://security.apple.com/blog/) - iOS/macOS
 * [Apple tech notes](https://developer.apple.com/documentation/technotes) - Apple/software
 * [BSD Cafe Journal](https://journal.bsd.cafe/) - Unix
+* [Daring Fireball](https://daringfireball.net/) - Apple
 * [The Desolation of Blog](https://lapcatsoftware.com/articles/) - Mac/macOS
 * [Electric Light Company blog](https://eclecticlight.co/) - Mac/macOS
 * [Fedora Magazine](https://fedoramagazine.org/) - Fedora
