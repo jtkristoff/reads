@@ -202,7 +202,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [IEEE Spectrum](https://spectrum.ieee.org/) - news
 * [The Information](https://www.theinformation.com/) - news
 * [Institute for AI Policy and Strategy](https://www.iaps.ai/ourresearch) - analysis/AI
-* [Interesting-People](https://ip.topicbox.com/groups/ip) - news
 * [Internet Society Blog](https://www.internetsociety.org/blog/) - news
 * [Internet Society Pulse](https://pulse.internetsociety.org/) - analysis/news
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
