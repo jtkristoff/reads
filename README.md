@@ -92,7 +92,8 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
 * [Google Security blog](https://security.googleblog.com/) - analysis/news
 * [Google Threat Analysis Group blog](https://blog.google/threat-analysis-group/) - analysis
-* [Greynoise blog](https://www.greynoise.io/blog) analysis/malware
+* [Greynoise blog](https://www.greynoise.io/blog) - analysis/malware
+* [Greynoise Labs](https://www.labs.greynoise.io/grimoire/) - analysis/malware
 * [The Hacker Factor](http://www.hackerfactor.com/blog/) - analysis
 * [ImperialViolet](https://www.imperialviolet.org/) - crypto
 * [Infoblox blog](https://blogs.infoblox.com/) - analysis
