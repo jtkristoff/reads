@@ -52,6 +52,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Klara Systems blog](https://klarasystems.com/articles/) - FreeBSD
 * [Last Week in AWS](https://www.lastweekinaws.com/blog/) - AWS
 * [LWN](https://lwn.net/) - Linux
+* [Makefile.feld](https://blog.feld.me/) - FreeBSD
 * [Microsoft Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - Windows
 * [Now in Android](https://developer.android.com/series/now-in-android) - Android
 * [OpenBSD Journal](https://undeadly.org) - OpenBSD
@@ -292,6 +293,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
 * [ISPreview](https://www.ispreview.co.uk/) - news
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
+* [Kevin McDonald's blog](https://kmcd.dev/) - protocols/software
 * [John Kristoff's blog](https://dataplane.org/jtk/blog/) - protocols/security
 * [LACNIC blog](https://blog.lacnic.net/en/) - news/analysis
 * [Marikku Leinio's blog](https://majornetwork.net/) - protocols
