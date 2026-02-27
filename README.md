@@ -75,7 +75,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [The Cloud Security Reading List](https://cloudseclist.com/past-issues/) - news
 * [Corelight Blog](https://corelight.blog/) - analysis
 * [cryptologie](https://cryptologie.net/) - crypto
-* [CTIChef OSINT](https://ctichef.com/osint-overviews/) - news
 * [CTO at NCSC - Cyber Defence Analysis](https://ctoatncsc.substack.com/archive) - news
 * [cybersec](https://cybersect.substack.com/archive) - analysis/opinion
 * [CyberScoop](https://www.cyberscoop.com/) - news
