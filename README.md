@@ -266,7 +266,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [CableLabs blog](https://www.cablelabs.com/blog) - protocols/engineering
 * [CAIDA](https://www.caida.org/) - research/analysis
 * [CENIC blog](https://cenic.org/blog) - engineering/research
-* [Jim Cowie's blog](https://content.cooperate.com/post/) - analysis
 * [Jon Crowcroft's blog](https://paravirtualization.blogspot.com/)
 * [CZ.NIC Staff Blog](https://en.blog.nic.cz/) - protocols/analysis
 * [Daniel Dib's blog](https://lostintransit.se/) - routing/devops
