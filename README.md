@@ -327,7 +327,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Bramus Van Damme's blog](https://www.bram.us/) - web development
 * [The Go BLog](https://blog.golang.org/) - Go
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
-* [Mark Needham's blog](http://www.markhneedham.com/blog/) - Python/database
 * [Mouse vs. Python](https://www.blog.pythonlibrary.org/) - Python
 * [The New Stack](https://thenewstack.io/) - software development
 * [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Windows
