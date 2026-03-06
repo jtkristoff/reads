@@ -233,6 +233,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [POTs and PANs](https://potsandpansbyccg.com/) - analysis/opinion
 * [Larry Press' blog](https://cis471.blogspot.com/) - analysis/opinion
 * [Public Internet Technology Group blog](https://pitg.gitlab.io/news/) - policy/analysis
+* [r/RedditEng](https://www.reddit.com/r/RedditEng/) - systems/software
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rest of World](https://restofworld.org/) - news/analysis
 * [Bob Rudis' daily drops](https://dailydrop.hrbrmstr.dev/) - software/news
