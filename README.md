@@ -310,7 +310,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Ookla research reports](https://www.ookla.com/research/reports) - analysis
 * [OONI blog](https://ooni.org/blog/) - analysis
 * [Packet Pushers blog](https://packetpushers.net/blogs/) - protocols
-* [Fabrizzio Petrucci's blog](https://compumundohipermegared.one/) - routing/protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
 * [SIDN Labs news and blog](https://www.sidnlabs.nl/en/news-and-blogs) - protocols/news
