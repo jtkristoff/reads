@@ -295,6 +295,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [IPng Networks articles](https://ipng.ch/s/articles/) - protocols/systems
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [IPXO blog](https://www.ipxo.com/blog/) - IPv4/analysis
+* [ISOC Live](https://isoclive.substack.com/) - news
 * [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
 * [ISPreview](https://www.ispreview.co.uk/) - news
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
