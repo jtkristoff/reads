@@ -109,6 +109,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Lumen Black Lotus Labs](https://blog.lumen.com/) - analysis
 * [Malwarebytes Labs blog](https://www.malwarebytes.com/blog) - analysis/news
 * [MANRS blog](https://www.manrs.org/blog/) - routing
+* [Microsoft Defender research team](https://www.microsoft.com/en-us/security/blog/author/windows-defender-research/) - analysis
 * [Microsoft Malware Protection Center](https://blogs.technet.microsoft.com/mmpc/) - malware/analysis
 * [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) - systems/analysis
 * [Alec Muffett's blog](https://alecmuffett.com/blog) - analysis/crypto
