@@ -131,6 +131,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
 * [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Risky Business News](https://news.risky.biz/) - news
+* [SANS cybersecurity whitepapers](https://www.sans.org/white-papers) - analysis/research
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
 * [Shadowserver news/insight](https://www.shadowserver.org/news-insights/) - analysis/malware
 * [Shostack + Associates blog](https://shostack.org/blog) - analysis
