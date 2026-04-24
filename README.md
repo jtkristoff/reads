@@ -167,7 +167,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Baldur Bjarnason's blog](https://www.baldurbjarnason.com/essays/) - opinion
 * [Arturo Borrero's blog](https://ral-arturo.org/) - software
 * [Marc Brooker's blog](https://brooker.co.za/blog/) - systems/programming
-* [Matt Brown's blog](https://www.mattb.nz/w/) - software/systems
 * [Center for Democracy & Technology](https://cdt.org/) - policy/analysis
 * [Center for Internet Security and Society blog](https://cyberlaw.stanford.edu/) - law
 * [Center for Security and Emerging Technology](https://cset.georgetown.edu/publications) - policy/analysis
