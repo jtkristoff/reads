@@ -308,8 +308,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [John Levine's blog](https://jl.ly/) - opinion/analysis
 * [Jens Link's blog](https://techlog.jenslink.net/) - protocols
 * [Jan-Piet Mens archives](https://jpmens.net/archive/) - DNS/systems
-* [Nick Merrill's blog](https://nickmerrill.substack.com/) - policy/analysis
-* [Netbeacon Institute](https://netbeacon.org/resources/) - DNS/security
+* [Netbeacon Institute](https://netbeacon.org/resource-center/) - DNS/security
 * [NLnet Labs Blog](https://blog.nlnetlabs.nl/) - protocols/software
 * [Mark Nottingham's blog](https://www.mnot.net/blog/) - policy/protocols
 * [Ookla articles](https://www.ookla.com/articles) - analysis
