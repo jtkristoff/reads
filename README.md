@@ -154,6 +154,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM Queue](https://queue.acm.org/) - software/analysis
 * [ACM TechNews](http://technews.acm.org/) - news
+* [Robert Alexander's blog](https://alexsci.com/blog/) - analysis/security
 * [arXiv.org](https://arxiv.org/) - research
 * [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/) - news/analysis
 * [B2fxxx](https://b2fxxx.blogspot.com/) - law
