@@ -143,6 +143,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Team Cymru Blog](https://team-cymru.com/blog/) - analysis
 * [Pouyan Fotouhi Tehrani's blog](https://blog.pouyan.net/en/) - analysis
 * [this week in security](https://this.weekinsecurity.com/) - news
+* [Stuart Thomas](https://stuart-thomas.com/) - analysis/research
 * [tl;dr sec](https://tldrsec.com/) - news
 * [TorrentFreak](https://torrentfreak.com/) - privacy
 * [Trend Micro Research](https://www.trendmicro.com/en_us/research.html) - analysis
