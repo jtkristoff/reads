@@ -85,6 +85,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
 * [The DFIR Report](https://thedfirreport.com/) - analysis
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
+* [Digital Impacts Lab](https://digimpactlab.substack.com/p/iran-digital-pulse-day-72) - analysis/malware
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
 * [Electrospaces](https://www.electrospaces.net/) - analysis/crypto
 * [ESET welivesecurity](https://www.welivesecurity.com/en/) - analysis
@@ -203,6 +204,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/) - systems
 * [Hacker News](https://news.ycombinator.com) - news
 * [Hacking, but Legal](https://www.hackingbutlegal.com/) - analysis/opinion
+* [Joseph Hall's blog](https://josephhall.org/blog/) - analysis/systems
 * [HAProxy blog](https://www.haproxy.com/blog) - software/analysis
 * [HealthChecks.io blog](https://blog.healthchecks.io) - analysis
 * [Bert Hubert's articles](https://berthub.eu/articles/) - science/opinion
