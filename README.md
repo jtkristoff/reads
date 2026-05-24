@@ -285,6 +285,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Domain Cite](https://domainincite.com/) - DNS/news
 * [Domain Name Industry Brief](https://www.dnib.com/) - DNS/analysis
 * [Domain Name Wire](https://domainnamewire.com/) - DNS/news
+* [Kal Feher](https://kalfeher.com/) - DNS/analysis
 * [FilterWatch](https://filter.watch/english/) - news/analysis
 * [The Forwarding Plane](https://forwardingplane.net/) - engineering/protocols
 * [Christian Huitema's blog](https://www.privateoctopus.com/blog.html) - protocols
