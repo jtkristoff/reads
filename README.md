@@ -11,6 +11,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [programming](#programming)
 
 ### business
+* [Bloomberg](https://www.bloomberg.com/) - markets/news
 * [Financial Times](https://www.ft.com/) - economics/news
 * [Harvard Business Review](https://hbr.org/) - analysis/research
 * [The Wall Street Journal](https://www.wsj.com) - markets/news
