@@ -11,6 +11,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [programming](#programming)
 
 ### business
+* [Financial Times](https://www.ft.com/) - economics/news
 * [Harvard Business Review](https://hbr.org/) - analysis/research
 * [The Wall Street Journal](https://www.wsj.com) - markets/news
 
@@ -18,6 +19,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [AllSides](https://www.allsides.com/unbiased-balanced-news) - links
 * [The Associated Press](https://apnews.com/) - global
 * [The Atlantic](https://www.theatlantic.com) - essays/US
+* [BBC](https://www.bbc.com/) - UK
 * [Boston Review](https://www.bostonreview.net) - essays
 * [The Chronicle of Higher Education](https://www.chronicle.com/) - academia
 * [The Economist](https://www.economist.com) - international
