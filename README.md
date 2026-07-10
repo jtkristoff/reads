@@ -134,7 +134,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Recorded Future research](https://www.recordedfuture.com/research) - analysis
 * [The Red Canary Blog](https://redcanary.com/blog/) - malware/analysis
 * [reddit /r/netsec](https://www.reddit.com/r/netsec/) - news
-* [RISKS](http://catless.ncl.ac.uk/Risks) - news
 * [Risky Business News](https://news.risky.biz/) - news
 * [SANS cybersecurity whitepapers](https://www.sans.org/white-papers) - analysis/research
 * [Schneier on Security](https://www.schneier.com/) - opinion/news
