@@ -109,7 +109,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Jan Kopriva's blog](https://untrustednetwork.net/en/) - analysis/malware
 * [Krebs on Security](http://krebsonsecurity.com/) - news
 * [Krypt3ia](https://krypt3ia.wordpress.com/) - analysis
-* [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - analysis/research
 * [The Lucid Privacy Group blog](https://lucid-privacy-group.ghost.io/) - privacy/security
 * [Lumen Black Lotus Labs](https://blog.lumen.com/) - analysis
 * [Malwarebytes Labs blog](https://www.malwarebytes.com/blog) - analysis/news
