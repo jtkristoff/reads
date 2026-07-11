@@ -323,6 +323,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Packet Pushers blog](https://packetpushers.net/blogs/) - protocols
 * [Qrator Labs Blog](https://blog.qrator.net/en/) - routing/analysis
 * [RIPE Labs](https://labs.ripe.net/) - analysis
+* [routerjockey](https://routerjockey.com/) - routing/protocols
 * [SIDN Labs news and blog](https://www.sidnlabs.nl/en/news-and-blogs) - protocols/news
 * [Dig Singh's blog](https://dipsingh.github.io/) - protocols
 * [SubTel Forum](https://issuu.com/subtelforum) - engineering/systems
