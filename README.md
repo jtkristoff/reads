@@ -299,7 +299,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [IETF News and Blog](https://www.ietf.org/blog/) - protocols/news
 * [IETF RFCs](https://www.rfc-editor.org/) - protocols
 * [International Cable Protection Committee publications](https://www.iscpc.org/publications/) - systems/analysis
-* [The Internet Protocol Blog](https://theinternetprotocolblog.wordpress.com/) - IPv6
 * [The Internet Protocol Journal](https://ipj.dreamhosters.com) - protocols
 * [IPng Networks articles](https://ipng.ch/s/articles/) - protocols/systems
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
