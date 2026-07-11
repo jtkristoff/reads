@@ -304,7 +304,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ipSpace blog](http://blog.ipspace.net/) - news/anlaysis
 * [IPXO blog](https://www.ipxo.com/blog/) - IPv4/analysis
 * [ISOC Live](https://isoclive.substack.com/) - news
-* [The ISP Column](http://www.potaroo.net/ispcol/) - analysis/research
+* [The ISP Column](http://ispcol.potaroo.net/) - analysis/research
 * [ISPreview](https://www.ispreview.co.uk/) - news
 * [Kentik Blog](https://www.kentik.com/blog/) - analysis/protocols
 * [Kevin McDonald's blog](https://kmcd.dev/) - protocols/software
