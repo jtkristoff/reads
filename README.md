@@ -290,6 +290,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Kal Feher](https://kalfeher.com/) - DNS/analysis
 * [FilterWatch](https://filter.watch/english/) - news/analysis
 * [The Forwarding Plane](https://forwardingplane.net/) - engineering/protocols
+* [Hogg Networking](https://hoggnet.com/blogs/news) - protocols
 * [Christian Huitema's blog](https://www.privateoctopus.com/blog.html) - protocols
 * [ICA UDRP Digest](https://www.internetcommerce.org/udrp-case-summaries/) - policy/news
 * [ICANN announcements](https://www.icann.org/en/announcements) - news
