@@ -94,6 +94,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [ESET welivesecurity](https://www.welivesecurity.com/en/) - analysis
 * [Feisty Duck newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/) - crypto
 * [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - crypto
+* [Flying Penguin](https://www.flyingpenguin.com/) - analysis
 * [Geant R&E cybersec newsletter](https://security.geant.org/security-newsletter/) - news
 * [GitHub Security Lab](https://github.blog/tag/github-security-lab/) - analysis
 * [Google Project Zero](https://googleprojectzero.blogspot.com/) - analysis/research
