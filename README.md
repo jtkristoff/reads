@@ -248,6 +248,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [r/RedditEng](https://www.reddit.com/r/RedditEng/) - systems/software
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rest of World](https://restofworld.org/) - news/analysis
+* [Bob Rudis' AImusing Thoughts](https://ai.rud.is/) - analysis/opinion
 * [Bob Rudis' daily drops](https://dailydrop.hrbrmstr.dev/) - software/news
 * [Chris Siebenmann's blog](https://utcc.utoronto.ca/~cks/space/blog/) - analysis/opinion
 * [Signs of Trivialty](https://www.netmeister.org/blog/) - sysadmin/analysis
