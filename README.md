@@ -131,6 +131,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Phrack](https://phrack.org/) - research/analysis
 * [PortSwigger research](https://portswigger.net/research) - analysis/research
 * [Project Ainita](https://ainita.net/) - analysis/research
+* [Niels Provos](https://www.provos.org/archives/) - analysis
 * [Qurium](https://www.qurium.org/) - analsyis
 * [The Record](https://therecord.media/) - news
 * [Recorded Future research](https://www.recordedfuture.com/research) - analysis
