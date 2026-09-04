@@ -351,6 +351,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Jupyter Blog](https://blog.jupyter.org/) - Juypter
 * [Mouse vs. Python](https://www.blog.pythonlibrary.org/) - Python
 * [The New Stack](https://thenewstack.io/) - software development
+* [Andrew Newbitt](https://nesbitt.io/) - package management
 * [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - Windows
 * [Perl Weekly](http://perlweekly.com/) - Perl
 * [Planet Python](https://planetpython.org/) - python
