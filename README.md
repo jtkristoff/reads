@@ -261,6 +261,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Techjournalist](https://techjournalism.medium.com/) - analysis
 * [Tech Policy Press](https://techpolicy.press/) - analysis/opinion
 * [Technology and Marketing Law blog](https://blog.ericgoldman.org/) - law/analysis
+* [tmpout](https://tmpout.sh/) - systems/software
 * [Laurence Tratt blog](https://tratt.net/laurie/blog/) - opinion/programming
 * [UNIDIR publications](https://unidir.org/programme/security-and-technology/) - security/analysis
 * [Vermaden](https://vermaden.wordpress.com/posts/) - unix/systems
