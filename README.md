@@ -147,7 +147,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Spamhaus News](https://www.spamhaus.org/news/) - malware/analysis
 * [Stranded on Pylos](https://pylos.co/) - analysis/opinion
 * [Team Cymru Blog](https://team-cymru.com/blog/) - analysis
-* [Pouyan Fotouhi Tehrani's blog](https://blog.pouyan.net/en/) - analysis
 * [this week in security](https://this.weekinsecurity.com/) - news
 * [Stuart Thomas](https://stuart-thomas.com/) - analysis/research
 * [tl;dr sec](https://tldrsec.com/) - news
