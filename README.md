@@ -200,7 +200,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Fastly Blog](https://www.fastly.com/blog) - systems/security
 * [First Monday](http://firstmonday.org/) - research/analysis
 * [Firstyear's blog-a-log](https://fy.blackhats.net.au/) - software/analysis
-* [Greg Foletta's blog](https://articles.foletta.org/) - protocols/software
 * [Freedom to Tinker](https://freedom-to-tinker.com/) - research/opinion
 * [Matthew Garrett's blog](https://codon.org.uk/~mjg59/blog/) - software
 * [Alex Gaynor's blog](https://alexgaynor.net/) - opinion/programming
