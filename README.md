@@ -63,6 +63,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [OSnews](https://www.osnews.com/) - Unix/Windows
 * [Planet Debian](https://planet.debian.org/) - Debian
 * [Daniel Stenberg's blog](https://daniel.haxx.se/blog/) - curl
+* [The Tao of Mac](https://taoofmac.com/) - Apple/software
 * [That Grumpy BSD Guy](https://bsdly.blogspot.com/) - Unix
 * [Tor Blog](https://blog.torproject.org/) - Tor
 
