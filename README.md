@@ -159,6 +159,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [0xkato's blog](https://www.0xkato.xyz/blog) - linux/systems
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM Queue](https://queue.acm.org/) - software/analysis
+* [ACM newsletter](https://theofficialacm.substack.com/) - opinion/systems
 * [ACM TechNews](http://technews.acm.org/) - news
 * [Robert Alexander's blog](https://alexsci.com/blog/) - analysis/security
 * [arXiv.org](https://arxiv.org/) - research
