@@ -72,7 +72,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Amnesty International Security Lab](https://securitylab.amnesty.org/) - analysis
 * [AWS security blog](https://aws.amazon.com/blogs/security/) - analysis
 * [Bellingcat blog](https://www.bellingcat.com/resources/) - analysis
-* [C-skills](https://c-skills.blogspot.com/) - analysis/software
 * [Adam Caudill's blog](https://adamcaudill.com/blog/) - opinion/analysis
 * [Censys blog](https://censys.com/resources/blog/) - analysis/research
 * [CERT.at blog](https://www.cert.at/en/news/blog/) - opinion/analysis
