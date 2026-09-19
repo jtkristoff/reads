@@ -1,5 +1,5 @@
 # reads
-Sources of (mostly) technical (mostly long and worthwhile) reads
+Sources of (mostly) technical (mostly long and worthwhile) reads.
 
 * [business](#business)
 * [general news](#general-news)
@@ -76,7 +76,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads
 * [Censys blog](https://censys.com/resources/blog/) - analysis/research
 * [CERT.at blog](https://www.cert.at/en/news/blog/) - opinion/analysis
 * [CERT-EU threat intel](https://cert.europa.eu/publications/threat-intelligence/) - news
-* [CISA resources](https://www.cisa.gov/resources-tools/resources) - analysis
+* [CISA resources](https://www.cisa.gov/resources-tools/resources) - analysis (src prefix blocks)
 * [Citizen Lab research](https://citizenlab.ca/category/research/) - privacy/analysis
 * [The Cloud Security Reading List](https://cloudseclist.com/past-issues/) - news
 * [Corelight Blog](https://corelight.blog/) - analysis
