@@ -40,6 +40,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 ### general science
 * [American Scientist](https://www.americanscientist.org) - news/research
 * [New Scientist](https://www.newscientist.com/) - news/research
+* [PNAS](https://www.pnas.org/) - news/research
 * [Science](https://www.sciencemag.org/) - research/news
 
 ### hardware/software
