@@ -222,6 +222,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 * [Internet2 News & Blogs](https://internet2.edu/news/) - news
 * [IT Notes](https://it-notes.dragas.net/) - systems/software
 * [Waldo Jaquith's blog](https://waldo.jaquith.org/) - software/opinion
+* [jwz's blog](https://www.jwz.org/blog/) - software/opinion
 * [Mallory Knodel's blog](https://internet.exchangepoint.tech/) - opinion/policy
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [lcamtuf's thing](https://lcamtuf.substack.com/archive) - analysis
