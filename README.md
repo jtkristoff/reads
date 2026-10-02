@@ -238,7 +238,6 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 * [O'Reilly Radar](https://www.oreilly.com/radar/) - analysis/programming
 * [Oracle blogs](https://blogs.oracle.com/) - software/systems
 * [Paged Out!](https://pagedout.institute/) - programming/security
-* [Swapneel Patnekar's blog](https://shreshtait.com/blog/) - analysis
 * [Pew Research Center](http://www.pewinternet.org/) - analysis/research
 * [Phoronix](https://www.phoronix.com/) - news/analysis
 * [Pivot to AI](https://pivot-to-ai.com/) - news/analysis
