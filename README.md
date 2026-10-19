@@ -90,6 +90,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
 * [The DFIR Report](https://thedfirreport.com/) - analysis
 * [DFRLab](https://dfrlab.org/) - analysis
+* [Diary of a honeypot](https://blog.efespain.com/en/) - analysis
 * [Didier Stevens](https://blog.didierstevens.com/) - analysis/software
 * [Digital Impacts Lab](https://digimpactlab.substack.com/archive/) - analysis/malware
 * [DomainTools Blog](https://www.domaintools.com/resources/blog/) - analysis
