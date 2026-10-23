@@ -251,6 +251,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 * [Larry Press' blog](https://cis471.blogspot.com/) - analysis/opinion
 * [Public Internet Technology Group blog](https://pitg.gitlab.io/news/) - policy/analysis
 * [r/RedditEng](https://www.reddit.com/r/RedditEng/) - systems/software
+* [Nicola Rennie blog](https://nrennie.rbind.io/blog/) - visualization/software
 * [Research at Google](https://research.google.com/) - research/analysis
 * [Rest of World](https://restofworld.org/) - news/analysis
 * [The Riposte](https://riposte.levelflow.org/category/research/) - analysis/policy
