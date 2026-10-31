@@ -45,7 +45,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 * [Science](https://www.sciencemag.org/) - research/news
 
 ### hardware/software
-* [Android developers blog](https://android-developers.googleblog.com) - Android
+* [Android developers blog](https://developer.android.com/blog) - Android
 * [Apple security research](https://security.apple.com/blog/) - iOS/macOS
 * [Apple tech notes](https://developer.apple.com/documentation/technotes) - Apple/software
 * [BSD Cafe Journal](https://journal.bsd.cafe/) - Unix
