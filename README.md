@@ -163,6 +163,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 
 ### infotech
 * [0xkato's blog](https://www.0xkato.xyz/blog) - linux/systems
+* [acidvegas' blog](https://acid.vegas/blog/) - research/analysis
 * [ACM Computing Surveys](https://dl.acm.org/journal/csur) - research/analysis
 * [ACM Queue](https://queue.acm.org/) - software/analysis
 * [ACM newsletter](https://theofficialacm.substack.com/) - opinion/systems
