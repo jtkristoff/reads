@@ -85,6 +85,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 * [cryptologie](https://cryptologie.net/) - crypto
 * [CTO at NCSC - Cyber Defence Analysis](https://ctoatncsc.substack.com/archive) - news
 * [cybersec](https://cybersect.substack.com/archive) - analysis/opinion
+* [Cybersecurity Dive](https://www.cybersecuritydive.com/) - news/policy
 * [CyberScoop](https://www.cyberscoop.com/) - news
 * [DataBreaches.net](https://www.databreaches.net/) - news
 * [Detection Engineering](https://www.detectionengineering.net/archive) - news/analysis
