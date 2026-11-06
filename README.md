@@ -198,6 +198,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 * [Frank Denis' blog](https://00f.net/) - software/systems
 * [Drew DeVault's blog](https://drewdevault.com/) - systems/programming
 * [Digital Medusa](https://digitalmedusa.org/blog-and-media/) - analysis/policy
+* [Digitally Yours, Charles Mok](https://charlesmok.substack.com/) - opinion/policy
 * [EC digital future library](https://digital-strategy.ec.europa.eu/en/library) - analysis
 * [Educated Guesswork](https://educatedguesswork.org/) - systems/security
 * [EFF Deep Links](https://www.eff.org/deeplinks) - news/policy
@@ -228,6 +229,7 @@ Sources of (mostly) technical (mostly long and worthwhile) reads.
 * [Waldo Jaquith's blog](https://waldo.jaquith.org/) - software/opinion
 * [jwz's blog](https://www.jwz.org/blog/) - software/opinion
 * [Mallory Knodel's blog](https://internet.exchangepoint.tech/) - opinion/policy
+* [Konstantinos Komaitis](https://kkomaitis.substack.com/profile/posts) - opinion/policy
 * [Lawfare](https://www.lawfareblog.com/) - law/policy
 * [lcamtuf's thing](https://lcamtuf.substack.com/archive) - analysis
 * [Lobsters](https://lobste.rs/) - news
